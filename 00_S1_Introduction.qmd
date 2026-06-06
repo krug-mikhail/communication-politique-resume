@@ -1,0 +1,173 @@
+---
+title: "S1 - Introduction"
+---
+
+::: {.callout-tip}
+## Ce chapitre en 1 ligne
+La communication politique = **un triangle interactif** entre acteurs politiques, médias et public. Ce chapitre te donne les définitions, les caractéristiques du système suisse, et le vocabulaire de base pour penser ce triangle.
+:::
+
+## Pourquoi un cours sur la communication politique ?
+
+Tu vis dans une démocratie représentative où :
+
+- L'**opinion publique** prend une importance accrue (sondages, réseaux sociaux).
+- L'**électorat flottant** (sans attache partisane forte) augmente (Manin, 1995).
+- Les **médias** deviennent le lieu central de formation de l'opinion publique.
+- Les **partis traditionnels** déclinent ; les acteurs politiques doivent communiquer professionnellement pour atteindre l'électorat.
+
+Le point à retenir : *La communication politique peut être définie comme un processus interactif concernant la transmission d'information entre les acteurs politiques, les acteurs médiatiques et le public.*
+
+## Les 4 conceptions de la communication politique (Gerstlé & Piar, 2016)
+
+À l'examen, c'est **le** classique à savoir. Quatre façons de définir la communication politique selon l'angle théorique :
+
+| Conception | Auteur central | Définition condensée |
+|---|---|---|
+| **Interactionnelle** | Norris (2001) | *Processus interactif de transmission d'information entre acteurs politiques, médias et public* |
+| **Compétitive** | Blumler (1990) | *Compétition pour influencer et contrôler, grâce aux médias, les perceptions publiques des événements et enjeux politiques* |
+| **Instrumentale** | Riutort (2007) | *Actions conduites par des professionnels de la communication agissant pour le compte de professionnels de la politique, à destination des gouvernés* |
+| **Délibérative** | Gerstlé & Piar (2016, inspiré de Barber, Cohen) | *La discussion et le débat collectif sont les conditions d'une démocratie élargie où l'inclusion citoyenne forme un espace public authentique* |
+
+::: {.callout-tip collapse="true"}
+## En simple
+- **Interactionnelle** : tout le monde parle à tout le monde (vision neutre).
+- **Compétitive** : tout le monde se bat pour contrôler le récit (vision stratégique).
+- **Instrumentale** : ce sont des pros qui vendent des politiciens (vision marketing).
+- **Délibérative** : le débat est la base de la démocratie (vision normative).
+:::
+
+## Les 3 acteurs (le triangle de base)
+
+| Acteur | Composantes |
+|---|---|
+| **Acteurs politiques** | Politicien·ne·s · candidat·e·s · institutions · partis |
+| **Acteurs médiatiques** | Médias · journalistes · rédactions |
+| **Public** | Citoyen·ne·s · société civile · groupes d'intérêt |
+
+Ce triangle est le **fil rouge** du cours entier : chaque séance étudie une interaction entre deux (ou trois) sommets.
+
+## Qu'est-ce que les « médias » ?
+
+Définition de référence (Lorimer & Scannell, 1994) — les médias de masse sont **un ensemble distinct** caractérisé par :
+
+- des **activités** : création de contenu médiatique ;
+- des **configurations technologiques** : TV, radio, presse → diffusion simultanée à large public ;
+- des **institutions** établies : systèmes, stations, publications ;
+- des **règles et codes** : pratiques professionnelles, attentes du public ;
+- des **rôles** : propriétaires, régulateurs, producteurs, distributeurs, annonceurs, audience.
+
+Les acteurs médiatiques = **institutions médiatiques, publications, journalistes, éditeur·ice·s, propriétaires**.
+
+## Le système médiatique suisse : 4 caractéristiques
+
+| Caractéristique | Détail |
+|---|---|
+| **Segmentation linguistique** | 4 paysages médiatiques (Meier & Schanne, 1994), cloisonnement aussi côté demande |
+| **Fédéralisme** | Ancrage cantonal voire local, régionalisation par fusions |
+| **Proximité politique** | « Journalisme coopératif » (Wuerth, 1999) ; les journalistes rapportent assez fidèlement les messages politiques (Hänggli & Kriesi, 2010) ; un·e Conseiller·ère national·e passe ~4h/semaine avec les médias (Sciarini et al., 2017) |
+| **Ouverture extérieure** | Marché commun avec pays limitrophes ; influence politique et culturelle de ces pays (Blum, 2005) |
+
+### Types de presse écrite
+
+| Type | Contenu | Exemples |
+|---|---|---|
+| **Journaux de qualité** | Politique + économie, rédactions spécialisées | NZZ, Le Temps, Corriere del Ticino |
+| **Journaux régionaux** | Dépendance des agences pour l'international/national, fort ancrage local | La Gruyère, Le Journal du Jura, Arcinfo |
+| **Journaux populaires** | Peu de politique, divertissement et sport | Le Matin, Blick |
+
+### Service public vs. médias commerciaux
+
+| Dimension | Service public (SRG SSR) | Médias commerciaux |
+|---|---|---|
+| **Contenu dominant** | Hard news (politique, économie) | Soft news, infotainment |
+| **Style** | Neutre, équilibré, représentatif | Risque de polarisation |
+| **Mission** | Rôle éducatif (Castro-Herrero et al., 2018), autonomie journalistique (Hallin & Mancini, 2004) | Dépendance de l'audience, publicité |
+| **Financement** | 80 % redevances (mandat art. 93 Cst) | Publicité et annonces |
+
+::: {.callout-important}
+## SRG SSR — à savoir précisément
+Association à but non lucratif, divisée en sociétés régionales. Surveillance : (1) **programmes** = organes de médiation + Autorité indépendante de l'examen des plaintes (membres nommés par le Conseil fédéral) ; (2) **administration/finances** = OFCOM.
+:::
+
+## Qu'est-ce qui est « politique » ? (Sciarini, 2023)
+
+Triplet à apprendre par cœur. C'est tombé sur le contrôle intermédiaire I.
+
+| Terme | Référence | Contenu |
+|---|---|---|
+| **Le politique (polity)** | Le cadre | Institutions (fédéralisme, démocratie directe), régime politique, système de gouvernement (système électoral, concordance) |
+| **La politique (politics)** | Le jeu | Processus politiques, négociations, rapports de pouvoir = interactions entre acteurs |
+| **Les politiques (policies)** | Les contenus | Politiques publiques (économique, extérieure, énergie, etc.) |
+
+::: {.callout-tip collapse="true"}
+## En simple
+- **Polity** = le terrain de foot et le règlement (les institutions).
+- **Politics** = le match en lui-même (les négociations).
+- **Policies** = les résultats marqués (les politiques publiques).
+:::
+
+## Le système politique suisse (Sciarini, 2023)
+
+### 3 institutions fondamentales
+
+- **Fédéralisme**
+- **Neutralité**
+- **Démocratie directe**
+
+### Les acteurs principaux
+
+#### Gouvernement = Conseil fédéral
+
+- **7 membres** / « ministres »
+- **Présidence tournante** (mandat d'1 an) → principe du **primus inter pares**
+- **Système de concordance** = intégration des forces politiques les plus importantes
+- **Formule magique** = composition du Conseil fédéral
+- Élection par l'**Assemblée fédérale** sur proposition des partis ; réélection quasi automatique
+
+#### Parlement = Assemblée fédérale (chambres réunies)
+
+| Chambre | Rôle | Membres |
+|---|---|---|
+| **Conseil des États** (chambre haute, chambre des cantons) | 2 représentant·e·s par canton | 46 Conseiller·ère·s |
+| **Conseil national** (chambre basse, chambre du peuple) | Représentation (plus ou moins) proportionnelle à la population | 200 Conseiller·ère·s |
+
+#### Partis politiques
+
+Fonctions : **structurer le débat, faire campagne, mobiliser, recruter les futur·e·s politicien·ne·s**.
+
+| Parti gouvernemental | Sigle FR (DE) | Positionnement |
+|---|---|---|
+| Union démocratique du Centre | **UDC** (SVP) | Droite conservatrice, anti-immigration |
+| Parti libéral-radical | **PLR** (FDP) | Droite libérale économique |
+| Le Centre (anc. PDC) | **Le Centre** (Die Mitte) | Centre |
+| Parti socialiste | **PS** (SP) | Gauche |
+
+Autres grands partis : **PES** / Verts (GPS/Grüne), **PVL** vert-libéraux (GLP), PBD (BDP, fusionné avec Le Centre).
+
+::: {.callout-warning}
+## Piège examen
+La **formule magique** ≠ une « formule mathématique » : c'est le **principe de répartition** des 7 sièges au Conseil fédéral entre les principaux partis. Elle a évolué (2+2+2+1 historique, puis recompositions). À ne pas confondre avec la **concordance**, qui est le système plus large d'intégration des forces politiques.
+:::
+
+## Modalités d'évaluation
+
+| Élément | Détail |
+|---|---|
+| **Format** | Examen écrit, **60 minutes** |
+| **Période** | Session d'été 2026 |
+| **Note** | **100 %** de la note finale |
+| **Matière** | Cours + lectures obligatoires |
+| **Matériel autorisé** | Aucun, sauf dictionnaire bilingue non-annoté |
+| **Structure** | **2 parties à 5 points** : 5 questions courtes (1 pt, 2-3 phrases) + 2 questions de réflexion (2.5 pts, 2-3 paragraphes) |
+
+::: {.callout-note}
+## Récapitulatif Ch.1
+- **4 conceptions** (Gerstlé & Piar 2016) : interactionnelle (Norris), compétitive (Blumler), instrumentale (Riutort), délibérative.
+- **Triangle** : acteurs politiques · acteurs médiatiques · public.
+- **Système médiatique suisse** : segmentation linguistique, fédéralisme, proximité politique, ouverture extérieure.
+- **Service public** (SRG SSR) vs **médias commerciaux** : hard news vs soft news, neutre vs polarisé.
+- **Polity / politics / policies** (Sciarini 2023) : institutions / processus / politiques publiques.
+- **3 institutions CH** : fédéralisme, neutralité, démocratie directe. **Conseil fédéral** = 7 membres, concordance, formule magique.
+- **Examen** : 60 min, 2 parties (questions courtes + réflexion), 100 % de la note.
+:::

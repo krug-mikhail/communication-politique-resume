@@ -1,0 +1,208 @@
+---
+title: "S8-S9 - Usage des médias et défis contemporains"
+---
+
+::: {.callout-tip}
+## Ce chapitre en 1 ligne
+Comment le public **utilise** les médias et avec quels effets ? Ce chapitre combine S8 (intervenant Valentin Emery, slides non fournis) et S9 (utilisation des médias) : théorie usage & gratification, fragmentation des publics, déprivation informationnelle, fake news et médialitératie.
+:::
+
+::: {.callout-warning}
+## Note sur le contenu
+Les slides de S8 (intervenant Valentin Emery) et S9 n'ont pas été distribués au moment de la rédaction de ce résumé. Ce chapitre est construit à partir des **concepts standards** que la prof signale dans la programmation et des **lectures obligatoires** indiquées (Polizzi, Tola, Walder, Witze, Zurich Yearbook 2022). Vérifie tes propres notes pour les compléments du semestre.
+:::
+
+## L'usage des médias : pourquoi étudier le récepteur·trice ?
+
+Pendant longtemps, la recherche s'est concentrée sur **ce que les médias font au public** (effets). Le tournant **usage et gratification** (Katz, Blumler & Gurevitch, 1973) renverse la question : **que fait le public avec les médias ?**
+
+Le public est **actif** : il choisit, sélectionne, interprète selon ses besoins.
+
+## La théorie usage et gratification (U&G)
+
+### Principe central
+
+Les individus **choisissent activement** des médias pour satisfaire des **besoins** spécifiques. Quatre catégories classiques de besoins :
+
+| Besoin | Exemple |
+|---|---|
+| **Information / surveillance** | Suivre l'actualité politique, météo |
+| **Identité personnelle** | Confirmer ses valeurs, se construire une opinion |
+| **Intégration / interaction sociale** | Avoir de quoi discuter avec les autres |
+| **Divertissement / évasion** | Se détendre, s'évader |
+
+### Implications
+
+- L'effet d'un média **dépend** de l'usage qu'on en fait.
+- Le **même contenu** (ex. un journal télévisé) peut servir des **besoins différents** selon l'utilisateur·rice.
+- Critique : approche **individualiste**, néglige la structure de l'offre médiatique.
+
+::: {.callout-tip collapse="true"}
+## En simple
+Avant, on se demandait : *« Que fait la TV aux gens ? »*. Avec U&G, on demande : *« Pourquoi les gens regardent-ils la TV ? »*. C'est un renversement complet du regard.
+:::
+
+## La fragmentation des publics
+
+### Du public de masse aux niches
+
+Au XXᵉ siècle, **3 ou 4 médias** dominaient (TV publique, presse de référence). Aujourd'hui : **fragmentation** massive.
+
+| Avant | Aujourd'hui |
+|---|---|
+| **Public de masse** (audience commune) | **Niches** (audiences segmentées) |
+| Peu de chaînes, peu de journaux | Multiplication des plateformes, podcasts, newsletters |
+| Couverture politique standardisée | Personnalisation algorithmique |
+| **Agenda public commun** | **Agendas multiples** |
+
+### Conséquences politiques
+
+| Conséquence | Détail |
+|---|---|
+| **Affaiblissement de l'agenda commun** | Moins d'enjeux partagés, plus de difficultés à délibérer collectivement |
+| **Polarisation** | Bulles de filtre, chambres d'écho (Sunstein) |
+| **Inégalité informationnelle** | Ceux qui s'informent s'informent plus ; ceux qui ne s'informent pas s'éloignent |
+
+## La déprivation informationnelle (Zurich Yearbook, 2022)
+
+### Définition
+
+**Déprivation informationnelle** = situation où une partie de la population **n'a plus accès** à une information politique de qualité (volontairement ou non).
+
+### Constat suisse (Zurich Yearbook 2022)
+
+| Indicateur | Tendance |
+|---|---|
+| Pourcentage de la population déprivée | **En augmentation** |
+| Consommation de hard news | En baisse, surtout chez les jeunes |
+| Recours aux **services payants** | Inégalitaire (filtré par revenu et éducation) |
+| Consommation de **soft news / infotainment** | En hausse |
+
+### Conséquences pour la démocratie
+
+- **Inégalité politique** : seuls les bien-informés participent efficacement.
+- **Vulnérabilité** aux **fake news** et désinformation.
+- **Affaiblissement** du contrôle citoyen sur les élites.
+
+::: {.callout-important}
+## La lecture Zurich Yearbook (2022) à mobiliser
+Si on te demande des conséquences de la non-information sur la démocratie (cf. consigne S10 : *« une partie de la population n'est plus informée sur l'actualité politique. Quelles conséquences sur la démocratie ? »*), structure :
+1. **Inégalité informationnelle** → inégalité politique.
+2. **Vulnérabilité** à la désinformation et aux fake news.
+3. **Affaiblissement du contrôle démocratique**.
+4. Possibles **chambres d'écho** et **polarisation**.
+:::
+
+## Fake news : caractéristiques et effets
+
+Reprend la distinction d'Eisenegger en S7 et l'approfondit avec les lectures Polizzi, Tola, Walder, Witze.
+
+### Pourquoi les fake news **fonctionnent** ?
+
+| Mécanisme | Détail |
+|---|---|
+| **Biais de confirmation** | Les gens préfèrent les infos qui confirment leurs croyances |
+| **Surcharge cognitive** | Difficile de vérifier toutes les sources |
+| **Émotionnalité** | Les fake news activent émotions et engagement |
+| **Algorithmes** | Les plateformes amplifient les contenus engageants, donc émotionnels |
+| **Confiance générale faible** | Méfiance envers les médias traditionnels favorise les sources alternatives |
+
+### Effets identifiés
+
+- **Renforcement** des opinions préexistantes (≈ modèle de résonance, S6).
+- **Confusion** sur ce qui est vrai (pollution du débat).
+- **Cynisme** envers les institutions.
+- Effet **direct** sur les comportements (violence, vaccination) dans certains cas.
+
+### Réponses possibles
+
+| Réponse | Détail |
+|---|---|
+| **Fact-checking** | Bernhard 2016 (DeFacto), CrossCheck |
+| **Régulation des plateformes** | DSA européen, Code de bonnes pratiques |
+| **Éducation aux médias** | Médialitératie (cf. section suivante) |
+| **Renforcement du journalisme de qualité** | Service public, subventions |
+
+## La médialitératie (media literacy)
+
+### Définition
+
+**Médialitératie** = capacité à **accéder**, **analyser**, **évaluer** et **créer** des contenus médiatiques dans une variété de formes.
+
+### Les 4 compétences-clés
+
+| Compétence | Détail |
+|---|---|
+| **Accès** | Savoir trouver l'information (moteurs de recherche, bases de données, sources primaires) |
+| **Analyse** | Comprendre les techniques de production et de cadrage |
+| **Évaluation** | Juger de la fiabilité, identifier les biais, recouper les sources |
+| **Création** | Produire ses propres contenus avec rigueur et éthique |
+
+### Pourquoi c'est crucial aujourd'hui ?
+
+- L'**IA générative** crée des contenus indiscernables d'une production humaine (deepfakes, textes).
+- Les **algorithmes** influencent ce qu'on voit sans qu'on le sache.
+- La **désinformation** se propage plus vite que sa vérification.
+
+### Inégalités d'accès à la médialitératie
+
+| Facteur | Effet |
+|---|---|
+| **Niveau d'éducation** | Plus on est éduqué, plus on a de littératie médiatique |
+| **Génération** | Les jeunes sont **familiarisés** aux outils mais **moins critiques** sur leur contenu (paradoxe digital native) |
+| **Origine socio-économique** | Détermine l'accès aux médias de qualité (souvent payants) |
+
+## Polarisation politique
+
+### Définition
+
+**Polarisation** = écart **croissant** entre positions politiques, et **rejet** mutuel entre camps. Deux types :
+
+| Type | Définition |
+|---|---|
+| **Polarisation idéologique** | Écart sur les **positions** politiques |
+| **Polarisation affective** | **Hostilité émotionnelle** envers le camp adverse (indépendamment des positions) |
+
+### Rôle des médias dans la polarisation
+
+| Mécanisme | Détail |
+|---|---|
+| **Exposition sélective** | On choisit les médias qui confirment nos vues (cf. modèle partisan, S7) |
+| **Algorithmes** | Plateformes optimisent l'engagement = contenu émotionnel = polarisant |
+| **Cadres en compétition** | Les médias partisans cadrent les mêmes événements de manière opposée |
+| **Élites politiques** | Polarisation à la base souvent **descendante** depuis les élites |
+
+### Études citées
+
+- **Polizzi** : polarisation et environnement numérique.
+- **Tola** : effets différentiels selon le profil.
+- **Walder** : journalisme et polarisation suisse.
+- **Witze** : cadres et engagement.
+
+::: {.callout-warning}
+## Piège examen
+La **polarisation idéologique** n'est **pas** forte en Suisse (système concordataire). En revanche, la **polarisation affective** peut être présente sur certains enjeux (immigration, climat). Distingue à l'examen pour gagner en précision.
+:::
+
+## Synthèse : les 5 défis contemporains
+
+À mémoriser comme une liste pour la question de réflexion type *« quels sont les défis actuels de la communication politique ? »*.
+
+| Défi | Concept clé | Auteur(s) |
+|---|---|---|
+| **1. Fragmentation** des publics | Niches, agendas multiples | — |
+| **2. Déprivation** informationnelle | Inégalité d'accès à l'info de qualité | Zurich Yearbook 2022 |
+| **3. Désinformation / fake news** | Vrai vs faux ; biais de confirmation | Eisenegger 2021, Polizzi |
+| **4. Polarisation** affective | Hostilité émotionnelle inter-camps | — |
+| **5. IA et plateformes** | Régulation, deepfakes, algorithmes | — |
+
+::: {.callout-note}
+## Récapitulatif Ch.S8-S9
+- **Théorie U&G** : le public est **actif**, choisit les médias selon ses besoins (info, identité, intégration, divertissement).
+- **Fragmentation** : public de masse → niches ; affaiblissement de l'agenda commun, polarisation.
+- **Déprivation informationnelle** (Zurich Yearbook 2022) : croissante en CH, inégalitaire, vulnérabilise la démocratie.
+- **Fake news** : fonctionnent grâce au biais de confirmation, à la surcharge cognitive, aux émotions, aux algorithmes.
+- **Médialitératie** : 4 compétences (accès, analyse, évaluation, création) ; inégalités d'accès.
+- **Polarisation** : idéologique vs affective. CH = faible polarisation idéologique, polarisation affective possible.
+- **5 défis contemporains** : fragmentation, déprivation, désinformation, polarisation, IA/plateformes.
+:::

@@ -1,0 +1,209 @@
+---
+title: "S5 - Marketing politique"
+---
+
+::: {.callout-tip}
+## Ce chapitre en 1 ligne
+Le marketing politique = **traiter l'électeur comme un consommateur** : segmenter, cibler, vendre un produit (candidat·e ou proposition). Après 1945, modernisation des médias + déclin des structures partisanes → rationalisation de la compétition politique.
+:::
+
+## Pourquoi le marketing politique apparaît-il ?
+
+Après la 2ᵉ Guerre mondiale, plusieurs **changements technologiques et sociétaux** convergent :
+
+- Modernisation de l'**équipement audio-visuel** (surtout la télévision).
+- **Affaiblissement** des structures sociales et clivages traditionnels.
+- Émergence de l'**électeur·ice flottant·e** (sans identification partisane).
+
+Trois conséquences en cascade :
+
+1. **Médiatisation** de la politique (cf. S4).
+2. **Marketing politique** et rationalisation de la compétition.
+3. **Publicité politique** comme outil de communication.
+
+Point à retenir : *Les changements technologiques et sociétaux après 1945 mènent à une rationalisation accrue de la compétition politique et à l'émergence de la vision de l'électeur·ice en tant que consommateur·ice.*
+
+## Définition (Gerstlé & Piar, 2016)
+
+> *Le marketing politique constitue une technique de rationalisation des prétendants au pouvoir. Il consiste en l'application des techniques de marketing par les organisations politiques et les pouvoirs publics pour susciter le soutien de groupes sociaux ciblés.* (Gerstlé & Piar, 2016, 45)
+
+Idée centrale :
+
+- **Citoyen·ne·s = consommateur·ice·s**
+- **Société = segments** avec traits distinctifs (socio-démographiques, culturels, politiques)
+- **But = vendre** un produit (candidat·e ou proposition politique) à un public-cible
+
+Souvent : marketing politique = **marketing électoral**.
+
+## Les 4 étapes du marketing électoral (Mauser, 1983)
+
+À savoir : c'est la grille opérationnelle. À l'examen, on peut te demander d'identifier dans quelle étape se situe un cas concret.
+
+| Étape | Activités-clés |
+|---|---|
+| **1. Analyse de la situation** | Recherches sur l'électorat (préférences, préoccupations) et l'environnement (économie). Recherches sur le·la candidat·e (atouts, faiblesses) et la concurrence (*opposition research*). |
+| **2. Stratégie de campagne** | **Segmentation** des électeur·ice·s et ciblage ; **positionnement** du·de la candidat·e ; choix des **messages** (enjeux, cadrage, solutions) et **canaux** (attention aux restrictions légales !). |
+| **3. Conduite de la campagne** | Gestion des ressources, logistique, timing. |
+| **4. Analyse** | Évaluation post-campagne. |
+
+## Étape 1 : analyse — sondages et focus groups
+
+### Méthodes
+
+| Méthode | Type | Avantage | Limite |
+|---|---|---|---|
+| **Sondages instantanés** (ex. Tamedia) | Quanti | « Photo » à un moment T, suivi agrégé | Pas de suivi individuel |
+| **Sondages panel** | Quanti | Mêmes personnes recontactées → suivi **individuel** | Coûteux, attrition |
+| **Focus groups** | Quali | Discussion riche, env. 10 personnes diverses + 1 facilitateur·ice | Pas généralisable |
+
+### Le problème d'échantillonnage
+
+Personnes à **faible connaissance/intérêt politique**, **faible participation électorale** et **sceptiques face au pouvoir/médias** ne participent pas forcément aux sondages → **solution = pondération**.
+
+## Étape 2 : stratégie — segmentation de l'électorat
+
+### 4 segments
+
+| Segment | Stratégie |
+|---|---|
+| **Électorat acquis** | **Mobiliser** |
+| **Électorat potentiel** | **Convaincre et mobiliser** |
+| **Électorat indécis / volatile / flottant** | **Convaincre et mobiliser** |
+| **Électorat acquis à l'opposition** | **Abandonner** |
+
+### Ciblage : du « masse » au « micro »
+
+| Type de ciblage | Détail |
+|---|---|
+| **Communication de masse** | Affiches, spots TV — un message pour tous |
+| **Micro-targeting** (Issenberg, 2012) | Segmentation très **pointue** des messages (par profil socio, données comportementales) |
+
+## Étape 2 : stratégie — positionnement
+
+### L'axe gauche-droite et sa transformation
+
+**Axe traditionnel** : gauche = intervention étatique vs droite = libre marché. Distribution **normale** des électeur·ice·s.
+
+**Espace idéologique à 2 axes** : avec l'importance accrue des valeurs de société, un **2ᵉ axe** apparaît :
+
+| Axe | Pôles |
+|---|---|
+| **Économique** | Libéralisme économique ↔ Conservatisme/intervention |
+| **Sociétal** | Libéralisme sociétal (choix de vie individuels) ↔ Conservatisme sociétal (statu quo) |
+
+Autre nom du 2ᵉ axe : **GAL–TAN** (Green-Alternative-Libertarian vs Traditional-Authoritarian-Nationalist).
+
+### Les partis suisses dans cet espace
+
+| Parti | Position approximative |
+|---|---|
+| **PS (SP)** | Gauche, libéral sociétal |
+| **PES / Verts (GPS)** | Gauche, libéral sociétal |
+| **PVL (GLP)** | Centre-droit économique, libéral sociétal |
+| **Le Centre** | Centre |
+| **PLR (FDP)** | Droite économique, libéral sociétal |
+| **UDC (SVP)** | Droite, conservatisme sociétal |
+
+## Étape 2 : positionnement par rapport aux enjeux
+
+### Théorie de la propriété d'enjeux (Petrocik, 1996)
+
+> Les partis ont des **réputations** sur certains enjeux. Ils sont plus **crédibles** quand ils en parlent → ils ont intérêt à parler de **leurs** enjeux pour gagner des voix.
+
+Exemples (associations spontanées en Suisse) :
+
+| Enjeu | Parti « propriétaire » |
+|---|---|
+| Politique migratoire | UDC |
+| Politique sociale | PS |
+| Politique environnementale | Les Verts (PES) |
+
+### Partis de niche (Meguid, 2008)
+
+Un **parti de niche** exploite un **enjeu spécifique** et reste flou sur le reste du programme. Exemples : partis anti-immigration, partis verts (à leurs débuts).
+
+::: {.callout-tip collapse="true"}
+## En simple
+- **Propriété d'enjeux** : si tu vends des baskets depuis 30 ans, on te croit plus quand tu parles de baskets que de cravates. Pareil pour les partis.
+- **Parti de niche** : tu vends **uniquement** des baskets. Tu pèses moins, mais sur **ta** thématique tu domines.
+:::
+
+## Campagnes négatives (negative campaigning)
+
+### Définition (Surlin & Gordon, 1977, 93)
+
+> *Le·la candidat·e attaque l'autre candidat·e personnellement, les questions que l'autre candidat·e défend, ou le parti de l'autre candidat·e.*
+
+Question fondamentale (Lau & Rovner, 2009) : **mettre en avant ses propres idées** ou **critiquer celles des autres** ?
+
+### Effets sur l'électorat — la lecture Nai (2016)
+
+Nai sur les campagnes négatives : conséquences sur l'électorat (à mobiliser à l'examen).
+
+| Effet | Détail |
+|---|---|
+| **Démobilisation** | Effet démobilisateur global des campagnes négatives (Ansolabehere & Iyengar, 1995) |
+| **Mobilisation ciblée** | Stuckelberger (2021) : les campagnes négatives **mobilisent** les sympathisants de l'attaquant **et démobilisent** ceux de l'attaqué |
+| **Polarisation** | Renforcement des camps existants |
+
+::: {.callout-warning}
+## Piège examen
+Les campagnes négatives ne sont **pas systématiquement** démobilisatrices. Selon Stuckelberger (2021), elles peuvent **mobiliser** les bases de l'attaquant. À l'examen, mentionner les **deux** effets pour gagner les points.
+:::
+
+## La publicité politique
+
+### Définition (Gerstlé & Piar, 2016)
+
+> *La publicité politique est une communication contrôlée par un acteur politique et caractérisée par une diffusion payante. Par la publicité, un acteur politique achète du contrôle sur sa communication.* (Gerstlé & Piar, 2016, 55+57)
+
+**Restrictions** : en Suisse, **interdiction de la publicité politique payante à la télévision**.
+
+### Effets de la publicité vs couverture médiatique (Petitpas, 2022)
+
+La **publicité payante** et la **couverture médiatique** ont des effets **différents** sur l'électorat :
+
+- La **couverture médiatique** influence la perception de **compétence** sur un enjeu.
+- La **publicité payante** est utile mais ne remplace pas l'attention médiatique.
+
+## Argent et politique
+
+### Dépenser plus = gagner ?
+
+| Contexte | Réponse |
+|---|---|
+| **USA** | Oui (principalement recherche aux États-Unis) |
+| **Élections suisses** | **Pas forcément**, surtout si on est candidat·e sortant·e (François et al., 2022) |
+| **Démocratie directe CH** | Pas forcément pour le **camp gouvernemental** (Jaquet et al., 2021) |
+
+Important : c'est la **différence de dépenses** (vision relative) qui compte, pas l'absolu (Jaquet et al., 2021).
+
+### Réseaux sociaux : nouvelle donne ?
+
+- **Moins coûteux**.
+- **Moins de régulations** (Fischer & Gilardi, 2023).
+- Possible **égalisation** ou **normalisation** entre acteurs.
+
+Avant les votations CH : **déclin** des dépenses pour la publicité payante dans les quotidiens (Hänggli & Feddersen, 2022).
+
+## Twitter et médias sociaux (Reveilhac & Morselli, 2023 ; Fichter, 2017)
+
+Avec le tournant numérique, les acteurs politiques investissent massivement les plateformes. Effets identifiés :
+
+- **Personnalisation** accrue (mélange privé/politique, cf. Giger et al., 2021).
+- **Sacralisation** politique par mise en scène (Courbet, 2026, S4).
+- **Augmentation de la visibilité** liée à un enjeu via les RS (Feddersen & Tresch, 2023).
+
+::: {.callout-note}
+## Récapitulatif Ch.5
+- **Marketing politique** (Gerstlé & Piar 2016) : citoyens = consommateurs, société = segments, but = vendre un produit.
+- **4 étapes** (Mauser 1983) : analyse, stratégie, conduite, analyse post.
+- **Sondages** (panel vs instantané), **focus groups**, problème d'échantillonnage → pondération.
+- **Segmentation électorale** : acquis (mobiliser), potentiel/flottant (convaincre + mobiliser), opposition (abandonner).
+- **Micro-targeting** (Issenberg 2012) vs communication de masse.
+- **Espace idéologique 2D** : économique + sociétal (GAL-TAN).
+- **Propriété d'enjeux** (Petrocik 1996) : chaque parti a ses enjeux de prédilection. **Partis de niche** (Meguid 2008) : focus sur un enjeu.
+- **Campagnes négatives** (Lau & Rovner 2009, Nai) : démobilisation globale mais mobilisation ciblée (Stuckelberger 2021).
+- **Publicité politique** : effets différents de la couverture médiatique (Petitpas 2022). Argent ≠ victoire automatique en CH.
+- **Réseaux sociaux** : moins coûteux, moins régulés ; possible égalisation.
+:::

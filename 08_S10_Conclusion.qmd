@@ -1,0 +1,192 @@
+---
+title: "S10 - Conclusion"
+---
+
+::: {.callout-tip}
+## Ce chapitre en 1 ligne
+Récapitulatif transversal du cours, infos examen détaillées, retour sur les concepts difficiles et défis actuels de la communication politique.
+:::
+
+## Bloc A — Infos examen Feddersen
+
+### Modalités
+
+| Élément | Détail |
+|---|---|
+| **Format** | Examen écrit |
+| **Durée** | **60 minutes** |
+| **Période** | Session d'été 2026 |
+| **Note** | 100 % de la note finale |
+| **Matière** | Cours + lectures obligatoires |
+| **Matériel autorisé** | Aucun, sauf dictionnaire bilingue **non-annoté** pour étudiant·e·s non-francophones |
+
+### Structure de l'examen (10 points)
+
+| Partie | Points | Format | Objectif |
+|---|---|---|---|
+| **1. Questions courtes** | 5 pts (5 questions × 1) | Réponses **2-3 phrases** | Tester la **compréhension** |
+| **2. Questions de réflexion** | 5 pts (2 questions × 2.5) | **2-3 paragraphes** | Tester la **capacité d'analyse critique** |
+| **Total** | **10 pts** |  |  |
+
+::: {.callout-important}
+## Stratégie de copie
+- **Questions courtes** : 2-3 phrases denses valent mieux qu'un paragraphe vague. Vise la **précision** : nomme le concept, définis-le brièvement, donne l'exemple/auteur.
+- **Questions de réflexion** : 2-3 paragraphes structurés. Schéma : **Argument 1 + développement + illustration** (lecture obligatoire ou exemple du cours), puis **Argument 2**.
+- **Cite les auteurs** : un nom + une date par concept central, c'est ce qui distingue une bonne réponse d'une excellente.
+:::
+
+### Conseils pour réviser efficacement
+
+1. **Le triangle de base** : acteurs politiques · acteurs médiatiques · public — à utiliser pour structurer toute réponse.
+2. **Les 4 conceptions** (Gerstlé & Piar 2016) à connaître par cœur.
+3. **Polity / politics / policies** (Sciarini 2023) — c'est tombé en contrôle intermédiaire.
+4. **Les 3 biais médiatiques** (D'Alessio & Allen 2000) → leur lien avec les 3 effets (S3).
+5. **Les 4 phases de Strömbäck** (2008).
+6. **Les 3 modèles d'effet des campagnes** (hypodermique, résonance, stratégique).
+7. **Les 2 (3) modèles de journalisme** (neutre-informationnel, partisan, amateur).
+8. **Les concepts d'amorçage, mise sur agenda, cadrage** — distingue-les **précisément** (cf. tableau S3).
+
+## Bloc B — Retour sur 3 distinctions difficiles
+
+### Médiation vs médiatisation
+
+| Concept | Quoi | Statut |
+|---|---|---|
+| **Médiation** | Les médias = canal central entre politique et public | **Constat** statique |
+| **Médiatisation** | La politique **adapte sa logique** à celle des médias | **Processus** dynamique |
+
+### Agenda-setting vs priming vs framing
+
+| Effet | Le médium fait quoi ? |
+|---|---|
+| **Agenda-setting** | Dit **à quoi penser** (importance perçue d'un enjeu) |
+| **Priming** | Change **les critères de jugement** des politicien·ne·s |
+| **Framing** | Dit **comment** un enjeu doit être perçu |
+
+### Désinformation vs mésinformation
+
+| Terme | Intention |
+|---|---|
+| **Désinformation** | **Volontaire**, vise à tromper |
+| **Mésinformation** | **Involontaire**, diffusion d'une erreur |
+
+## Bloc C — Récapitulatif transversal des séances
+
+### Le triangle de la communication politique
+
+C'est le fil rouge. Chaque séance étudie une interaction entre **2 ou 3 sommets** du triangle.
+
+| Séance | Interaction principale |
+|---|---|
+| **S1** | Définition du triangle entier |
+| **S2** | **Médias → contenu** (sélection des nouvelles) |
+| **S3** | **Médias → public** (effets : agenda, priming, framing) |
+| **S4** | **Politique ↔ médias** (médiatisation, internalisation de la logique médiatique) |
+| **S5** | **Politique → public** (marketing politique) |
+| **S6** | **Politique + médias → public** (effets des campagnes) |
+| **S7** | **Médias** (fonctions et modèles journalistiques) |
+| **S8-S9** | **Public → médias** (usage, fragmentation, médialitératie) |
+| **S10** | Bilan et défis |
+
+### Les grands auteurs à connaître
+
+| Auteur | Concept-clé | Séance |
+|---|---|---|
+| **Norris (2001)** | Conception interactionnelle | S1 |
+| **Blumler (1990)** | Conception compétitive | S1 |
+| **Riutort (2007)** | Conception instrumentale | S1 |
+| **Gerstlé & Piar (2016)** | Synthèse des 4 conceptions, marketing politique, publicité | S1, S5 |
+| **Sciarini (2023)** | Polity/politics/policies, système politique suisse | S1 |
+| **Galtung & Ruge (1965)** | News values | S2 |
+| **D'Alessio & Allen (2000)** | 3 biais médiatiques | S2 |
+| **Boydstun (2013, 2014)** | 3 approches de production, tempête médiatique | S2 |
+| **McCombs & Shaw (1972)** | Agenda-setting, Chapel Hill | S3 |
+| **Iyengar & Kinder (1987)** | Amorçage (priming) | S3 |
+| **Entman (1993)** | Cadrage (framing) | S3 |
+| **Baumgartner, De Boef & Boydstun (2008)** | Étude phare framing : peine de mort | S3 |
+| **Iyengar (1991)** | Cadrage thématique vs épisodique | S3 |
+| **Altheide & Snow (1979)** | Logique médiatique | S4 |
+| **Strömbäck (2008)** | 4 phases de médiatisation | S4 |
+| **Strömbäck & Van Aelst (2013)** | Adaptation des partis (4 arènes) | S4 |
+| **Mazzoleni & Schulz (1999)** | Politique médiatisée a perdu son autonomie | S4 |
+| **Mauser (1983)** | 4 étapes du marketing électoral | S5 |
+| **Petrocik (1996)** | Propriété d'enjeux | S5 |
+| **Meguid (2008)** | Partis de niche | S5 |
+| **Lau & Rovner (2009), Nai (2016)** | Campagnes négatives | S5 |
+| **Stuckelberger (2021)** | Mobilisation ciblée des campagnes négatives | S5 |
+| **Petitpas (2022)** | Publicité vs couverture médiatique | S5 |
+| **Iyengar & Simon (2000)** | 3 catégories d'effets de campagne | S6 |
+| **Perloff (2021)** | Définition de la persuasion | S6 |
+| **Iyengar & Petrocik (1998)** | Effets limités, activation des prédispositions | S6 |
+| **Zaller (1992)** | Receive-Accept-Sample | S6 |
+| **Marquis & Tresch (2022)** | Compétence climat 2019 | S6 |
+| **Hänggli & Feddersen (2022)** | Médias et communication politique suisse | S3, S6, S7 |
+| **Cook (1998), Sparrow (1999)** | Journalisme neutre-informationnel | S7 |
+| **McNair (2003)** | Journalisme partisan, ligne éditoriale | S7 |
+| **Atton (2008)** | Journalisme amateur | S7 |
+| **Vallone et al. (1985)** | Effet du média hostile | S7 |
+| **Mathes & Pfetsch (1991)** | Mise sur agenda intermédiatique | S7 |
+| **Eisenegger (2021)** | Désinformation, Zurich Yearbook | S7, S8-S9 |
+
+## Bloc D — Défis actuels de la communication politique
+
+Cinq défis à mobiliser pour les questions de réflexion ouvertes :
+
+| Défi | Concept | Risque démocratique |
+|---|---|---|
+| **1. Médiatisation phase IV** | Logique médiatique internalisée | Politique symbolique, perte d'autonomie |
+| **2. Réseaux sociaux et démédiation** | Communication directe | Contournement du fact-checking |
+| **3. Désinformation et fake news** | Mésinfo, désinfo, mal-info | Pollution du débat, confusion |
+| **4. Fragmentation et déprivation** | Niches d'audience, inégalité d'accès | Affaiblissement de l'agenda commun |
+| **5. IA et algorithmes** | Génération automatique, recommandation | Deepfakes, polarisation, opacité |
+
+## Bloc E — Que retenir du cours ?
+
+Le cours t'a appris à :
+
+1. **Définir** la communication politique (4 conceptions).
+2. **Identifier** les 3 acteurs et leurs interactions.
+3. **Analyser** la sélection médiatique (news values, biais, tempêtes).
+4. **Distinguer** les 3 effets centraux (agenda-setting, priming, framing) et leurs études phares.
+5. **Comprendre** la médiatisation (4 phases de Strömbäck) et la logique médiatique.
+6. **Décortiquer** une campagne politique (marketing, segmentation, propriété d'enjeux).
+7. **Évaluer** les effets des campagnes (3 modèles, lecture Zaller).
+8. **Reconnaître** les 2 (3) modèles de journalisme et leurs conséquences.
+9. **Critiquer** les défis actuels (désinformation, fragmentation, polarisation, IA).
+
+Ce n'est pas un savoir abstrait : c'est un **regard analytique** sur ton flux d'information quotidien.
+
+## Bloc F — Modèles de réponse type pour la partie réflexion
+
+### Modèle pour question « Effet des médias sur X »
+
+**Structure** :
+1. Définir l'effet ciblé (agenda-setting / priming / framing).
+2. Mobiliser l'auteur fondateur + sa définition.
+3. Citer une étude empirique (Chapel Hill, Baumgartner, Iyengar & Kinder).
+4. **Nuancer** : effets dépendent du contexte, des individus, du type de médias.
+
+### Modèle pour question « Conséquences de la médiatisation »
+
+**Structure** :
+1. Distinguer médiation (constat) et médiatisation (processus).
+2. Décrire les 4 phases de Strömbäck.
+3. Diagnostiquer la perte d'autonomie (Mazzoleni & Schulz 1999) et le médiamalaise (Newton 1999).
+4. **Discuter** : les réseaux sociaux atténuent-ils ou aggravent-ils ?
+
+### Modèle pour question « Rôle des médias dans la démocratie »
+
+**Structure** :
+1. Lister les fonctions primaires (info, orientation, formation de l'opinion) et secondaires (watchdog, intégration).
+2. Présenter les 2 (3) modèles de journalisme.
+3. Identifier les défis (désinformation, déprivation, polarisation).
+4. **Conclure** sur la fragilité actuelle du modèle démocratique.
+
+::: {.callout-note}
+## Récapitulatif Ch.10
+- **Examen** : 60 min, 2 parties (5 questions courtes 1 pt + 2 réflexion 2.5 pts), 10 pts total, 100 % de la note.
+- **Distinctions difficiles** : médiation vs médiatisation ; agenda-setting vs priming vs framing ; désinformation vs mésinformation.
+- **Triangle** + **chaque séance** = une interaction.
+- **5 défis** actuels : médiatisation, démédiation, désinformation, fragmentation, IA.
+- **Stratégie examen** : nomme le concept, cite l'auteur, donne l'exemple, nuance, illustre par lecture.
+:::

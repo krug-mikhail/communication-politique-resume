@@ -1,0 +1,151 @@
+---
+title: "S2 - Sélection médiatique"
+---
+
+::: {.callout-tip}
+## Ce chapitre en 1 ligne
+Les médias **ne peuvent pas tout couvrir** : ils sélectionnent. Cette sélection n'est ni neutre ni aléatoire — elle suit des **valeurs médiatiques** (news values) et des **biais systématiques**. Ce chapitre te donne le vocabulaire pour décortiquer cette sélection.
+:::
+
+## Pourquoi étudier la sélection médiatique ?
+
+L'**attention médiatique** est une **ressource politique rare** (au même titre que l'argent ou les votes). Différence entre :
+
+- ce qui est **vu et entendu** ;
+- ce qui **passe inaperçu**.
+
+L'attention médiatique peut **changer les attitudes et le comportement** du public. Donc maîtriser la sélection = enjeu de pouvoir.
+
+Le point à retenir : *Les actualités médiatiques ne sont ni entièrement représentatives du monde, ni aléatoires. À cause des biais systématiques et de la valeur médiatique, on peut largement prédire ce qui fait l'actualité.*
+
+## Biais médiatiques (D'Alessio & Allen, 2000)
+
+**3 types de biais** — à connaître précisément, c'est la grille de lecture pour S3 (effets des médias) :
+
+| Biais | Anglais | Définition | Effet en S3 |
+|---|---|---|---|
+| **Biais de sélectivité** | *gatekeeping bias* | Certains événements / acteurs (ne) sont volontairement (pas) couverts | Mise sur agenda |
+| **Biais de couverture / visibilité** | *visibility bias* | Certains événements / acteurs sont plus visibles que d'autres | Mise sur agenda |
+| **Biais de présentation** | *presentation bias* | La couverture est plus favorable / positive envers certains acteurs / enjeux | Cadrage (framing) |
+
+::: {.callout-tip collapse="true"}
+## En simple
+- **Sélectivité** : tu choisis qui passe la porte.
+- **Visibilité** : parmi ceux qui sont entrés, certains sont en première page, d'autres en bas de page.
+- **Présentation** : parmi ceux qui sont en première page, certains sont présentés en bien, d'autres en mal.
+
+Pour identifier un biais à l'examen, demande-toi : *est-ce un problème de qui passe ?, de combien on en parle ?, ou de comment on en parle ?*
+:::
+
+## La valeur médiatique (news value)
+
+### Définition (Galtung & Ruge, 1965)
+
+> *Les critères de sélection que les journalistes et les rédacteur·ice·s utilisent pour décider des sujets d'actualité à traiter et de la manière de les présenter.*
+
+### Les critères classiques
+
+| Critère | Exemple |
+|---|---|
+| **Niveau de violence / scandale / conflit** | Guerre, fait divers violent, scandale politique |
+| **Proximité** | Catastrophe en Europe > catastrophe en Asie pour la presse européenne |
+| **Nouveauté** | Premier cas, événement inédit |
+| **Acteurs impliqués** | Politicien·ne·s de premier plan, célébrités |
+| **Population affectée** | Tremblement de terre massif vs accident local |
+| **Complexité de l'enjeu** | Enjeux simples > enjeux techniques |
+
+### Critère de proximité vs population affectée (Boydstun, 2013)
+
+Comparaison de la couverture US de 3 désastres naturels : un désastre **proche** (US) reçoit énormément plus de couverture qu'un désastre **plus large mais lointain** (tsunami 2004, ouragan 2005). La **proximité** l'emporte sur la **population affectée**.
+
+::: {.callout-warning}
+## Piège examen
+Ne confonds pas **proximité géographique** (distance physique) et **proximité culturelle** (similarité culturelle, langue, alliance). Les deux comptent : la guerre en Ukraine a été massivement couverte parce qu'elle est géographiquement et culturellement proche pour les médias occidentaux (cf. lecture Zacharia).
+:::
+
+## Processus de production des actualités : 3 approches (Boydstun, 2013)
+
+C'est le cœur de S2. À savoir précisément, c'est très probable à l'examen.
+
+### 1. Approche du processus organisationnel
+
+Journalistes et éditeurs répondent à des **motivations professionnelles** :
+
+- Les organisations ont des **ressources limitées** (temps, personnel, argent).
+- Elles s'appuient sur les **sources officielles** et les **communiqués de presse**.
+- Les décisions dépendent de la **valeur médiatique** d'un événement.
+
+### 2. Approche du marché
+
+Journalistes et éditeurs anticipent les attentes de l'audience (**compétition**) :
+
+- Réduction des coûts, appui sur des **réseaux d'information**.
+- Décisions dépendent de l'**attention reçue au préalable** (*prior attention*).
+- Importance de la **concurrence** : être le premier, imitation en cas de succès.
+
+### 3. Approche du traitement disproportionné de l'information
+
+Le manque d'espace dans l'agenda médiatique + mécanismes de rétroaction → journalistes et éditeurs **sous- ou surréagissent** :
+
+- **Rétroaction** : l'agenda médiatique augmente la préoccupation du public, et vice-versa.
+- Résultat = **tempête médiatique** (*media storm*).
+
+::: {.callout-tip collapse="true"}
+## En simple
+- **Organisationnel** = j'ai des contraintes (peu de temps, peu d'argent) → je m'appuie sur ce qui est facile à trouver (communiqués officiels).
+- **Marché** = je cours après l'audience → je copie ce qui marche déjà.
+- **Disproportionné** = on s'emballe collectivement → tempête médiatique.
+
+Les trois approches **se complètent**, ne s'excluent pas.
+:::
+
+## La tempête médiatique (media storm)
+
+### Définition (Boydstun et al., 2014, 509)
+
+> *Une attention médiatique soudaine, élevée et soutenue pour un événement ou enjeu.*
+
+### Les 3 (+1) critères
+
+| Critère | Seuil concret |
+|---|---|
+| **Accroissement soudain** | Au moins **150 %** du nombre d'articles de la semaine précédente |
+| **Attention élevée** | Au moins **100 articles** au niveau national (chiffre US) |
+| **Attention soutenue** | Au moins **1 semaine** |
+| **(implicite) Plusieurs publications** | Couverture dans plusieurs titres simultanément |
+
+### Pourquoi c'est important ?
+
+- **Forte congruence** de la couverture médiatique entre différents titres pendant une tempête (Gruszczynski, 2020).
+- **Effet de mise sur agenda** sur l'agenda politique (Walgrave et al., 2017).
+- **Potentiel de changement sociétal** (Boydstun, 2013).
+
+Exemples : scandale Clinton/Lewinsky (1998), utilisation de la force policière aux US.
+
+::: {.callout-important}
+## Quand on te demande d'identifier une tempête médiatique à l'examen
+Coche les 3 critères :
+1. Y a-t-il eu un **bond** d'attention (≥150 %) ?
+2. L'attention est-elle **élevée en absolu** (≥100 articles) ?
+3. A-t-elle **duré** au moins une semaine ?
+Si oui, tu peux qualifier l'épisode de tempête médiatique. Ajoute la conséquence : effet sur l'agenda politique et potentiel de changement sociétal.
+:::
+
+## Petits drapeaux pour identifier les news values
+
+À l'examen tu peux avoir un titre et devoir dire à quel critère il correspond :
+
+| Titre type | Critère dominant |
+|---|---|
+| « Trump's State of the Union: Rosy Predictions and Angry Attacks » (NYT) | Acteurs impliqués + conflit |
+| « LR cherche le mode d'emploi pour 2027 » (Le Monde) | Proximité + acteurs impliqués |
+| « Talks Ukraine-US à Genève, préparation trilatérale Russie » (Guardian) | Conflit + nouveauté + acteurs majeurs |
+
+::: {.callout-note}
+## Récapitulatif Ch.2
+- **Attention médiatique** = ressource politique rare ; expliquer pourquoi seuls certains événements sont couverts.
+- **3 biais** (D'Alessio & Allen, 2000) : sélectivité (gatekeeping), couverture (visibilité), présentation. Préparent les effets de S3.
+- **News values** (Galtung & Ruge, 1965) : violence, proximité, nouveauté, acteurs, population, complexité. **Proximité > population affectée** (Boydstun, 2013).
+- **3 approches** de production (Boydstun, 2013) : organisationnelle (contraintes), de marché (compétition), traitement disproportionné (tempêtes).
+- **Tempête médiatique** : ≥150 % d'augmentation, ≥100 articles, ≥1 semaine, dans plusieurs publications. Effet d'agenda politique.
+:::

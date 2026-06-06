@@ -1,0 +1,224 @@
+---
+title: "S6 - Effets des campagnes"
+---
+
+::: {.callout-tip}
+## Ce chapitre en 1 ligne
+Les campagnes politiques ont-elles un effet ? Réponse nuancée : **3 catégories d'effets** (choix de vote, apprentissage/mobilisation, mise sur agenda/amorçage) × **3 modèles théoriques** (hypodermique, résonance, stratégique). Plutôt que des effets directs massifs, on observe surtout des effets **indirects** et **conditionnés** par les caractéristiques individuelles.
+:::
+
+## Évolution historique des campagnes
+
+Trois périodes successives pour comprendre où on en est :
+
+| Période | Dates | Caractéristiques |
+|---|---|---|
+| **1. Pré-moderne** | Milieu XIXᵉ → après WW2 | Relations d'interconnaissance candidats/citoyens ; organisation légère de volontaires ; porte-à-porte, réunions, affiches, tracts, presse partisane ; allégeances partisanes fortes = électeur·ice·s prédictibles |
+| **2. Moderne** | 1960-1980 | **Professionnalisation**, durée des campagnes s'allonge, **télévision**, désalignement social partisan |
+| **3. Post-moderne** | 1990 → aujourd'hui | Professionnalisation s'intensifie, **internet et réseaux sociaux**, **campagnes permanentes** |
+
+### Spécificités contemporaines
+
+- **USA** : accroissement drastique de la durée et du coût des campagnes présidentielles.
+- **CH** : utilisation des campagnes de votation comme **pré-campagnes électorales**.
+- Réseaux sociaux → **campagnes permanentes**.
+
+### Américanisation des campagnes
+
+Caractéristiques selon Plasser & Plasser (2023) :
+
+| Dimension | Évolution |
+|---|---|
+| Format | **Hypermédiatisation**, personnalisation/peopleisation, professionnalisation, **négativité** |
+| Candidat·e·s | Priorité audio-visuel > écrit, discipline des messages, gestion de l'impression |
+| Journalistes | « Horse-race journalism » (jeu politique, stratégies), couverture interprétative, style adversatif, **tonalité négative**, sensationnalisme |
+| Électeur·ice·s | Faible implication, attitudes cyniques, **apathie**, saturation médiatique |
+
+::: {.callout-tip collapse="true"}
+## Tout n'est-il que stratégie ?
+Non : enjeux et positions défendues ne sont **pas toujours** stratégiques au sens cynique. Beaucoup de candidat·e·s agissent **par conviction**. Et les représentations collectives des partis ne sont pas malléables à coups de campagne — il existe des « tendances lourdes » qui résistent.
+:::
+
+## Le tableau de référence : 3 catégories × 3 modèles
+
+À mémoriser. C'est la grille de lecture pour analyser n'importe quelle campagne.
+
+### Les 3 catégories d'effets
+
+| Catégorie | Question posée |
+|---|---|
+| **1. Choix de vote / préférence partisane** | La campagne convainc-elle qui voter ? |
+| **2. Apprentissage et mobilisation** | La campagne instruit-elle ? Mobilise-t-elle ? |
+| **3. Mise sur agenda et amorçage** | La campagne change-t-elle ce qui compte ? |
+
+### Les 3 modèles théoriques
+
+| Modèle | Vision du public | But pour les candidat·e·s |
+|---|---|---|
+| **1. Hypodermique** | Public **passif**, absorbe tous les messages | Atteindre le public le plus large avec le meilleur message |
+| **2. Résonance** | Public **actif**, prédispositions individuelles modèrent les effets | **Focaliser** sur les enjeux avantageux pour son camp |
+| **3. Stratégique** | Public dans un environnement **concurrentiel** | Capter l'attention, **neutraliser** les adversaires, gagner les médias |
+
+## Catégorie 1 : choix de vote — la persuasion
+
+### Définition de la persuasion (Perloff, 2021)
+
+> *Un processus symbolique dans lequel les communicateur·ice·s tentent de convaincre d'autres personnes de changer leurs propres attitudes ou comportements à l'égard d'une question par la transmission d'un message dans une atmosphère de libre choix.* (Perloff, 2021, 4)
+
+Schéma : **émetteur·trice → message (via canal) → récepteur·trice**.
+
+### Résultats classiques
+
+**Effets limités** sur le choix de vote. Les campagnes **activent** surtout les **prédispositions partisanes dormantes** (Iyengar & Petrocik, 1998).
+
+### L'École de Yale (années 1950)
+
+Travaux pionniers à partir de la propagande WW2 et guerre froide. Déplacement de la vision :
+
+- De **l'émetteur tout-puissant**...
+- Au **récepteur·trice disposant d'un pouvoir d'action**.
+
+### Exemples empiriques
+
+| Étude | Résultat |
+|---|---|
+| **Spots TV US** (Kaid et al., 1992) | Effets partiels (amélioration de l'image du·de la candidat·e). **Attention** : expérimental → risque de **surestimation** (environnement contrôlé, participants concentrés, mesure court terme) |
+| **Événements de campagne US** (Holbrook, 1994, 1995) | Contribution **très modérée** au soutien des candidats. Facteurs plus importants : état de l'économie, popularité du sortant |
+| **Publicités politiques CH** (Stadelmann-Steffen & Zumofen, Bern) | Effets **limités** |
+
+## Catégorie 2 : apprentissage et mobilisation
+
+### Apprentissage
+
+**Prémisse** : aversion au risque des électeur·ice·s → importance de fournir de l'information durant une campagne.
+
+Preuves empiriques d'une **amélioration du niveau d'information** par les campagnes et leur couverture médiatique (Ansolabehere & Iyengar, 1996).
+
+**Dépend de** :
+
+- Niveau de connaissances préalable (**sophistication politique**).
+- Niveau d'**attention** à la campagne.
+
+### Mobilisation ou démobilisation ?
+
+Effet **général = mobilisateur**.
+
+**Exception majeure** : effet **démobilisateur** des **campagnes négatives** (Ansolabehere & Iyengar, 1995).
+
+### Lecture clé : Marquis & Tresch (2022) sur 2019 (enjeu climatique)
+
+L'étude analyse les conséquences de la campagne fédérale 2019 fortement marquée par le climat :
+
+- L'enjeu climatique a **gagné en compétence perçue** pour les partis écologistes.
+- Effet de **mise sur agenda** : importance du climat ↑ chez les électeur·ice·s.
+- Effet d'**amorçage** : le climat est devenu un **critère de jugement** important pour le choix de vote.
+- Conséquence : **percée des Verts** aux élections.
+
+::: {.callout-important}
+## La lecture Marquis & Tresch à citer à l'examen
+Si question sur les effets des campagnes / sur 2019 / sur la compétence perçue sur des enjeux : mobiliser cette lecture comme exemple empirique du modèle de **résonance** + **mise sur agenda** + **amorçage**.
+:::
+
+## Catégorie 3 : mise sur agenda et amorçage (effets indirects)
+
+C'est où les campagnes ont leurs effets **les plus robustes** : effets persuasifs **indirects** via la modification des critères de jugement.
+
+### Exemple : campagne canadienne 1988 (Johnston et al., 1992)
+
+Mécanisme en 3 temps :
+
+1. Candidats se positionnent majoritairement sur le **traité de libre-échange** avec les US.
+2. Enjeu devient de plus en plus **important** pour les électeur·ice·s (mise sur agenda).
+3. Position sur cet enjeu devient de plus en plus **déterminante** pour le choix de vote (amorçage).
+
+## Modèle 1 : hypodermique
+
+| Composante | Description |
+|---|---|
+| **Vision** | Candidat·e tout-puissant·e, électeur·ice passif·ve absorbant tous les messages |
+| **Atout** | Importance du **message parfaitement conçu** |
+| **But stratégique** | **Atteindre un public le plus large possible** avec le meilleur message |
+| **Critique** | Pas réaliste : on sait que les effets directs sont limités |
+
+## Modèle 2 : résonance
+
+### Idée centrale
+
+Les effets d'un message dépendent des **caractéristiques individuelles** :
+
+- **Identification partisane** → repères partisans (*partisan cueing*, Coppock 2022) → renforcement ou polarisation.
+- **Sophistication / compétence politique**.
+
+But pour les candidat·e·s : **focaliser** sur les enjeux **avantageux**.
+
+### Le modèle « Receive – Accept – Sample » (Zaller, 1992)
+
+**Prémisses** (à connaître) :
+
+1. Plus un individu est **cognitivement impliqué** (*awareness*) sur un enjeu, plus il **reçoit** un message persuasif.
+2. Les individus **résistent** aux arguments contraires à leurs prédispositions, **à condition** qu'ils aient assez d'infos pour relier le message à leurs prédispositions (ex. source).
+3. Plus une considération a été **évoquée récemment**, plus elle est facilement **remémorée** → elle peut activer une attitude correspondante.
+
+### Conséquences de Zaller
+
+| Type d'électeur·ice | Effet attendu |
+|---|---|
+| **Différences de réception** | Certain·e·s entendent davantage les messages d'un·e candidat·e plutôt que d'autres |
+| **Faible compétence politique** | **Plus réactif·ve·s** au contenu (n'ont pas les moyens de s'y opposer) |
+| **Indépendant·e·s** (sans affiliation) | **Les plus sensibles** aux messages politiques (pas de protection idéologique) |
+
+::: {.callout-tip collapse="true"}
+## En simple — pourquoi Zaller est important
+Les gens **les plus sophistiqués** politiquement **reçoivent** beaucoup les messages mais leur **résistent** car ils savent les contextualiser. Les gens **moyens** sont les **plus persuadables** (ils reçoivent et acceptent). Les très peu informés ne reçoivent même pas → impossibles à toucher.
+
+C'est un U inversé : les effets sont maximaux pour les **modérément informés**.
+:::
+
+### Étude : Feddersen & Adams (2022)
+
+*Public opinion backlash in response to party messages* — quand un parti envoie un message, certains segments du public **réagissent en sens inverse** (backlash).
+
+## Modèle 3 : stratégique
+
+| Composante | Description |
+|---|---|
+| **Vision** | Réception du message dans un **contexte concurrentiel** (autres candidat·e·s, médias) |
+| **But stratégique** | **Captiver l'attention** des électeur·ice·s, **neutraliser** les campagnes adverses, **gagner l'attention des médias** |
+| **Lien avec S5** | Cf. Feddersen & Tresch (en cours) sur visibilité médiatique liée aux RS |
+
+## Effets des campagnes sur les médias
+
+### Agenda-setting réciproque
+
+- En général, **effets réciproques**.
+- Mais **l'agenda politique domine** notamment lors des **campagnes électorales** et de **démocratie directe** en Suisse (Hänggli & Feddersen, 2022).
+- Les candidat·e·s peuvent augmenter leur **visibilité médiatique** sur un enjeu en menant campagne, notamment sur les **réseaux sociaux** (Feddersen & Tresch, 2023).
+- La couverture médiatique, à son tour, impacte l'opinion publique → S3.
+
+### Intensité perçue de campagne (Bühlmann et al.)
+
+L'**intensité perçue** d'une campagne par le public dépend de la couverture médiatique. Une campagne objectivement modérée peut paraître intense si elle est très couverte.
+
+::: {.callout-warning}
+## À mobiliser pour les questions de réflexion
+*« Les campagnes ont-elles un effet ? »* → ne réponds pas oui/non. La bonne structure :
+1. Effets **directs limités** sur le choix de vote (modèle hypodermique faible).
+2. Effets **indirects robustes** via mise sur agenda et amorçage.
+3. Effets **conditionnés** par les caractéristiques individuelles (résonance, Zaller).
+4. Effets **contextuels** : contexte concurrentiel (stratégique), intensité perçue.
+
+Mobilise au moins une lecture (Marquis & Tresch 2022, ou Nai 2016).
+:::
+
+::: {.callout-note}
+## Récapitulatif Ch.6
+- **3 périodes** : pré-moderne (interconnaissance), moderne (TV, professionnalisation), post-moderne (internet, campagnes permanentes).
+- **Américanisation** (Plasser & Plasser) : hypermédiatisation, personnalisation, négativité, horse-race journalism.
+- **3 catégories d'effets** : choix de vote (persuasion), apprentissage/mobilisation, mise sur agenda/amorçage.
+- **3 modèles** : hypodermique (public passif), résonance (caractéristiques individuelles), stratégique (contexte concurrentiel).
+- **Persuasion** (Perloff) : effets limités sur le choix de vote ; activation des prédispositions dormantes (Iyengar & Petrocik 1998).
+- **Mobilisation** : effet général positif, sauf campagnes négatives (Ansolabehere & Iyengar 1995) — voir Nai et Stuckelberger en S5.
+- **Marquis & Tresch (2022)** : 2019 = compétence climat ↑ pour les écolos ; mise sur agenda + amorçage = percée des Verts.
+- **Zaller (1992) Receive-Accept-Sample** : effets en U inversé selon la sophistication ; indépendant·e·s les plus sensibles.
+- **Effets sur les médias** : agenda politique domine pendant les campagnes CH (Hänggli & Feddersen 2022).
+:::

@@ -1,0 +1,193 @@
+---
+title: "S3 - Effets des médias"
+---
+
+::: {.callout-tip}
+## Ce chapitre en 1 ligne
+Les médias n'ont pas un pouvoir tout-puissant, mais ils **structurent ce à quoi on pense (agenda-setting)**, **comment on le pense (framing)**, et **selon quels critères on juge** (priming). Trois mécanismes à savoir distinguer **précisément** — c'est l'or de cette séance.
+:::
+
+## La grande histoire en 4 phases
+
+Les recherches sur les effets des médias ont oscillé entre maximalistes et minimalistes pendant un siècle :
+
+| Phase | Période | Vision dominante |
+|---|---|---|
+| **1. Effets omnipotents** | 1900-1940 | Médias = seringue hypodermique, public passif (modèle stimulus → réponse) |
+| **2. Effets limités** | 1940-1960 | Lazarsfeld et al. : les médias n'influencent que peu, l'opinion passe par les **leaders d'opinion** (two-step flow) |
+| **3. Renaissance des effets** | 1970-1990 | McCombs & Shaw : agenda-setting ; Iyengar & Kinder : priming ; Entman, Goffman : framing |
+| **4. Effets négociés** | 1990-aujourd'hui | Effets **dépendent du contexte**, des individus, des enjeux, du type de médias |
+
+::: {.callout-tip collapse="true"}
+## Two-step flow (Lazarsfeld) en simple
+Les médias n'atteignent pas directement le grand public. Ils passent par des **leaders d'opinion** (personnes plus attentives aux médias, qui en reparlent dans leur entourage). Donc l'influence va médias → leaders d'opinion → public. Conclusion : effets directs limités.
+:::
+
+## Le tableau récap des 3 effets centraux
+
+À mémoriser. C'est ce que tu dois pouvoir distinguer **précisément** à l'examen.
+
+| Effet | Le médium fait quoi ? | Lien avec biais S2 | Auteur fondateur |
+|---|---|---|---|
+| **Mise sur agenda** (*agenda-setting*) | Dit au public **à quoi penser** (quels enjeux sont importants) | Sélectivité + couverture | McCombs & Shaw (1972) |
+| **Amorçage** (*priming*) | Influence **les critères de jugement** des politicien·ne·s | Sélectivité + couverture | Iyengar & Kinder (1987) |
+| **Cadrage** (*framing*) | Influence **comment** un enjeu est perçu (la manière) | Présentation | Entman (1993) |
+
+## La mise sur agenda (agenda-setting)
+
+### Idée centrale
+
+Le **volume** de couverture médiatique d'un enjeu détermine **l'importance** que le public lui accorde. Citation culte de Cohen (1963) :
+
+> *La presse ne réussit pas toujours à dire aux gens **ce qu'ils doivent penser**, mais elle réussit étonnamment bien à dire à ses lecteur·ice·s **à quoi penser**.*
+
+### L'étude pionnière : Chapel Hill Study (McCombs & Shaw, 1972)
+
+| Élément | Détail |
+|---|---|
+| **Contexte** | Campagne présidentielle US 1968 |
+| **QR** | La couverture médiatique des enjeux influence-t-elle l'importance que les électeur·ice·s leur accordent ? |
+| **Hypothèse** | Plus un enjeu est couvert, plus l'électeur·ice lui accorde de l'importance |
+| **Méthode** | 100 entretiens avec électeur·ice·s indécis·es + analyse de 9 médias, 15 catégories d'enjeux |
+| **Résultat** | **Corrélation = 0.967** entre agenda médiatique et agenda public |
+
+### Les 3 critiques de Chapel Hill
+
+- **Étude statique** : difficulté à établir la **direction causale** (médias → public, ou public → médias ?).
+- **Niveau agrégé** alors que l'hypothèse est **individuelle** → on perd les facteurs personnels.
+- Rôle des **variables intervenantes** et facteurs externes pas pris en compte.
+
+### Études récentes
+
+Les agendas (médiatique, public, politique) **s'influencent mutuellement**. Pour la Suisse, Sciarini & Tresch (2019) montrent cette mutualité sur les enjeux européens.
+
+::: {.callout-warning}
+## Mise sur agenda dépend de…
+- **Contexte** (événements spéciaux, catastrophes)
+- **Caractéristiques individuelles** (intérêt politique, sophistication)
+- **Type d'enjeu** (proche vs lointain de l'expérience personnelle)
+- **Type de médias** (service public vs commercial)
+
+À l'examen, si tu dois critiquer la théorie : commence par ces dépendances.
+:::
+
+## L'amorçage (priming)
+
+### Idée centrale (Iyengar & Kinder, 1987)
+
+Le volume de couverture d'un enjeu influence **le poids** que le public lui accorde comme **critère de jugement**. Mécanisme :
+
+1. La mise sur agenda rend une information **temporairement plus accessible** dans la mémoire.
+2. Le public **juge** les politicien·ne·s ou propositions politiques **sous l'angle** de cette information accessible.
+
+### Exemple concret
+
+Si les médias couvrent beaucoup l'économie pendant 6 mois, alors quand tu évalues un président, tu vas le juger **sur sa performance économique** (et non sur sa politique migratoire, qui aurait pesé davantage si elle avait été en avant).
+
+::: {.callout-tip collapse="true"}
+## Agenda-setting vs priming en simple
+- **Agenda-setting** : *quel sujet est important ?* → l'enjeu lui-même devient saillant.
+- **Priming** : *par quel critère je juge ?* → l'enjeu devient la **règle de mesure** pour évaluer les acteurs politiques.
+
+Ils marchent en chaîne : on met sur agenda **et** on amorce.
+:::
+
+## Le cadrage (framing)
+
+### Idée centrale
+
+La **manière** dont les médias couvrent un enjeu influence la **manière** dont le public le perçoit. Schattschneider (1960, 68) : *« la définition des alternatives est l'instrument suprême du pouvoir »*.
+
+### Les 2 niveaux du cadrage
+
+| Niveau | Nom | Perspective | Définition |
+|---|---|---|---|
+| **Macro** (médias) | **Cadres de communication** (*frames in communication*, *media frames*) | Sociologique, constructiviste | Comment les médias **construisent** un enjeu |
+| **Micro** (public) | **Cadres de pensée** (*frames in thought*, *audience frames*) | Psychologique | Comment les individus **comprennent** un enjeu |
+
+### Définition d'Entman (1993, 52)
+
+> *Cadrer, c'est sélectionner certains aspects d'une réalité perçue et les rendre plus saillants dans un texte de communication, de manière à promouvoir une définition particulière du problème, une interprétation causale, une évaluation morale et / ou une recommandation de traitement.*
+
+**Moyens du cadrage** : choix des mots, images, phrases, styles de présentation.
+
+### Les 2 types principaux (Scheufele, 1999)
+
+#### Type 1 : Cadrage d'emphase (*emphasis framing*)
+
+Sélection d'**aspects spécifiques** d'un enjeu. Exemple : l'immigration peut être cadrée par…
+
+| Cadre | Exemple |
+|---|---|
+| **Économique** | « L'économie suisse ne se porterait pas aussi bien sans sa main-d'œuvre étrangère » |
+| **Sécuritaire** | « L'arrivée massive de requérants met en péril la sécurité » |
+| **Moral / humanitaire** | « La Suisse a le devoir moral d'accueillir des réfugiés » |
+
+→ Lutte pour la **définition** d'un enjeu.
+
+#### Type 2 : Cadrage thématique vs épisodique (Iyengar, 1991)
+
+Lutte pour la **compréhension** d'un enjeu (attribution de la responsabilité).
+
+| Dimension | **Thématique** | **Épisodique** |
+|---|---|---|
+| **Métaphore** | « Vue d'ensemble » | « Portrait » |
+| **Accent** | Contexte social/politique, évolution dans le temps | Destin individuel, épisode particulier |
+| **Fréquence** | **Minorité** de la couverture | **Majorité** de la couverture |
+| **Exemple (retraites)** | Article sur les failles du système, les réformes | Article sur une retraitée devant travailler pour survivre |
+| **Attribution de responsabilité** | À la **société**, la collectivité | À l'**individu** |
+
+::: {.callout-warning}
+## Le piège classique
+Le cadrage **majoritaire** dans les médias est **épisodique** → le public attribue la responsabilité à **l'individu**, pas au système. C'est une conclusion politique forte à connaître.
+:::
+
+## L'étude phare du framing : Baumgartner, De Boef & Boydstun (2008)
+
+### Le déclin de la peine de mort aux US
+
+| Élément | Détail |
+|---|---|
+| **QR** | Dans quelle mesure le cadrage de la peine de mort dans les médias US influence-t-il l'opinion publique ? |
+| **Hypothèse** | Si le cadre médiatique change → le cadre de pensée du public change → l'opinion publique change |
+| **Méthode médias** | ~4000 articles du NYT, 1960-2006, codage des cadres : arguments légaux/constitutionnels, moraux, sur les preuves, sur l'innocence |
+| **Méthode opinion** | Sondages Gallup + nombre de condamnations |
+
+**Résultat** : depuis le milieu des années 1990, déplacement du débat médiatique des **questions morales/constitutionnelles** vers le **rôle de l'innocence** → **déclin de l'approbation** publique de la peine de mort **et** déclin du nombre de condamnations.
+
+C'est l'exemple à citer quand on te demande un cas empirique de cadrage.
+
+## Cadrage vs autres effets : la grille de distinction
+
+À l'examen, ne mélange pas ces distinctions :
+
+| Effet | Ce que le cadrage fait | Ce que l'autre fait |
+|---|---|---|
+| **Cadrage vs mise sur agenda** | Saillance d'aspects **particuliers** d'un enjeu | Saillance et hiérarchisation **d'enjeux** |
+| **Cadrage vs amorçage** | Changements dans la **perception/interprétation** d'un enjeu | Changement des **critères de jugement** |
+| **Cadrage vs persuasion** | Changement du **poids relatif** de différentes croyances | Changement du **contenu** d'une croyance |
+| **Cadrage vs positions** | Explication/justification d'une position | Être favorable / défavorable à un enjeu |
+
+## Effets sur les connaissances politiques
+
+Les médias ont un **rôle éducatif**, surtout en démocratie directe (Suisse).
+
+| Indicateur (CH) | Chiffre |
+|---|---|
+| Votant·e·s s'informant par presse écrite (votations) | **90 %** (Hänggli & Feddersen, 2022) |
+| Votant·e·s s'informant par radio/TV (votations) | **> 2/3** |
+| Électeur·ice·s s'informant par radio/TV (élections 2023) | **59 %** (Tresch et al., 2024) |
+| Électeur·ice·s s'informant par presse écrite (élections 2023) | **53 %** |
+
+**Étude Milic et al. (2014)** : 1/3 bien informé, 1/3 moyen, 1/3 mal informé — mais une **grande majorité** vote tout de même dans le sens de ses préférences politiques.
+
+::: {.callout-note}
+## Récapitulatif Ch.3
+- **4 phases historiques** : omnipotents → limités (Lazarsfeld, two-step flow) → renaissance (McCombs, Iyengar, Entman) → négociés.
+- **Mise sur agenda** (McCombs & Shaw 1972) : volume → importance perçue. Critique de Chapel Hill : étude statique, niveau agrégé.
+- **Amorçage** (Iyengar & Kinder 1987) : volume → poids comme critère de jugement.
+- **Cadrage** (Entman 1993) : la manière de présenter → perception. 2 niveaux (macro/micro), 2 types (emphase, thématique vs épisodique).
+- **Baumgartner, De Boef & Boydstun (2008)** : étude phare sur le déclin de la peine de mort US par changement de cadrage (morale → innocence).
+- **Distinctions à connaître** : agenda-setting vs priming vs framing vs persuasion vs positions.
+- **Médias = rôle éducatif** en démocratie directe suisse.
+:::

@@ -1,0 +1,58 @@
+---
+title: "Communication politique — Cours (théorie)"
+toc: false
+---
+
+::: {.callout-tip}
+## À propos
+Résumé pédagogique du cours **BA Communication politique** (Prof. Dr. Alexandra Feddersen) — Sciences de la communication et des médias, UNIFR, SP 2026. Pensé comme un compagnon de révision : tu y trouveras les concepts, les auteurs, les exemples et les pièges d'examen pour chaque séance.
+:::
+
+## Le cours en 1 phrase
+
+**La communication politique** = *un processus interactif concernant la transmission de l'information entre les acteurs politiques, les médias d'information et le public* (Norris, 2001). Le cours te donne les outils théoriques pour analyser ce triangle.
+
+## L'examen Feddersen — format
+
+- **Format** : examen écrit, **60 minutes**, session d'été 2026
+- **Matière** : cours + lectures obligatoires
+- **Note** : **100 %** de la note finale
+- **Matériel autorisé** : aucun, sauf dictionnaire bilingue non-annoté
+- **Structure** : **2 parties à 5 points** chacune (10 pts total)
+  - **Partie 1 — Questions courtes** : 5 questions × 1 pt, réponse en 2-3 phrases (tester la **compréhension**)
+  - **Partie 2 — Questions de réflexion** : 2 questions × 2.5 pts, réponse en 2-3 paragraphes (tester la **réflexion / analyse critique**)
+
+::: {.callout-warning}
+## Particularité de Feddersen
+Format **identique** à Méthodes II (même prof) : questions courtes + questions ouvertes. La prof valorise la **précision** (nom de l'auteur, définition exacte) et la **structure** (argument + développement + illustration tirée des lectures). Voir [Format examen](format_examen.html) pour la stratégie complète.
+:::
+
+## Les 10 séances
+
+| # | Séance | Concepts-clés | Auteurs principaux |
+|---|---|---|---|
+| [S1](00_S1_Introduction.html) | Introduction | 4 conceptions, polity/politics/policies, système suisse | Norris, Blumler, Riutort, Gerstlé & Piar, Sciarini |
+| [S2](01_S2_Selection_mediatique.html) | Sélection médiatique | News values, biais, tempête médiatique | Galtung & Ruge, Boydstun, D'Alessio & Allen |
+| [S3](02_S3_Effets_medias.html) | Effets des médias | Agenda-setting, priming, framing | McCombs & Shaw, Iyengar & Kinder, Entman, Baumgartner |
+| [S4](03_S4_Mediatisation.html) | Médiatisation | 4 phases, logique médiatique vs politique | Strömbäck, Mazzoleni & Schulz, Altheide & Snow |
+| [S5](04_S5_Marketing_politique.html) | Marketing politique | Segmentation, positionnement, campagnes négatives | Gerstlé & Piar, Petrocik, Lau & Rovner, Nai |
+| [S6](05_S6_Effets_campagnes.html) | Effets des campagnes | 3 modèles, persuasion, mobilisation | Iyengar & Simon, Zaller, Marquis & Tresch |
+| [S7](06_S7_Journalisme_politique.html) | Journalisme politique | Neutre-informationnel vs partisan, watchdog | Cook, McNair, Hallin & Mancini |
+| [S8-S9](07_S8_S9_Usage_medias.html) | Usage des médias | U&G, fragmentation, fake news, désinformation | Eisenegger, Polizzi, Zurich Yearbook |
+| [S10](08_S10_Conclusion.html) | Conclusion | Récap transversal, défis actuels | — |
+
+## Outils de révision
+
+- [Synthèse](synthese.html) — tableau récap de tous les frameworks + workflow examen + 3 modèles d'analyse type
+- [Glossaire](glossaire.html) — ~100 termes alphabétiques en langage simple
+- [Format examen](format_examen.html) — analyse du format Feddersen + sujets probables + stratégie
+
+## Le fil conducteur du cours
+
+Le cours suit le **triangle classique** de la communication politique :
+
+1. **Acteurs médiatiques** : ce qu'ils sélectionnent (S2), comment ils l'effectuent (S7), avec quels effets (S3)
+2. **Acteurs politiques** : comment ils s'adaptent (S4, médiatisation), comment ils font campagne (S5-S6)
+3. **Public** : ce qu'il consomme (S8-S9), comment il est exposé à la désinformation (S7)
+
+Le cours referme la boucle en S10 avec un récap transversal.

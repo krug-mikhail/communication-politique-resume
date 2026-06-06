@@ -1,0 +1,173 @@
+---
+title: "S4 - Médiatisation"
+---
+
+::: {.callout-tip}
+## Ce chapitre en 1 ligne
+La **médiatisation** = processus par lequel la politique perd son autonomie face aux médias et **adopte la logique médiatique** pour exister. Strömbäck (2008) propose 4 phases ; à connaître absolument.
+:::
+
+## Médiation vs médiatisation : distinction essentielle
+
+C'est **la** distinction qui tombe à l'examen. À ne pas confondre.
+
+| Concept | Anglais | Définition | Statut |
+|---|---|---|---|
+| **Médiation** | *mediated politics* (Bennett & Entman, 2001) | Les médias sont le **principal canal** de communication entre acteurs politiques et public | **Caractéristique** des démocraties contemporaines (statique) |
+| **Médiatisation** | *mediatization* | **Type de relation** entre médias et politique ; évolution dans le temps de l'influence des médias sur la politique | **Processus dynamique** |
+
+::: {.callout-tip collapse="true"}
+## En simple
+- **Médiation** = constat : les médias sont au milieu (carrefour).
+- **Médiatisation** = évolution : la politique se laisse modeler par la logique des médias **dans la durée**.
+
+Tu peux avoir médiation **sans** médiatisation forte. Mais la médiatisation présuppose la médiation.
+:::
+
+## Que fait la médiatisation à la politique ?
+
+Quatre conséquences observables :
+
+1. **Positionnement** politique des médias (évaluation et contrôle des acteurs politiques) et **interprétation** des événements.
+2. **Focalisation** sur les informations à haute valeur médiatique (polarisation, personnalisation, etc.).
+3. **Définition de l'importance** des enjeux par allocation sélective de l'attention (mise sur agenda / amorçage → S3).
+4. **Construction du narratif** d'événements et d'enjeux (cadrage → S3).
+
+## La logique médiatique (Altheide & Snow, 1979)
+
+### Définition
+
+> *La logique médiatique consiste en une forme de communication ; le processus par lequel les médias présentent et transmettent de l'information. Le format consiste, en partie, en la façon dont le matériel est organisé, le style dans lequel il est présenté, la focalisation ou l'accent mis sur des caractéristiques particulières du comportement et la perspective utilisée pour présenter et interpréter les phénomènes.* (Altheide & Snow, 1979, 10)
+
+Caractéristique centrale de la médiatisation. Se réfère surtout au **style de présentation**. **Risque** : que le style **dilue** le contenu, que la substance passe au second plan.
+
+S'applique à la fois au **contenu médiatique** et au **comportement des acteurs politiques**.
+
+### Logique médiatique vs logique politique (Landerer, 2014)
+
+À mémoriser comme un tableau de comparaison ligne par ligne.
+
+| Indicateur | **Logique médiatique** | **Logique politique** |
+|---|---|---|
+| **Complexité** | Simplification d'enjeux complexes ; perspective unique | Enjeux dans leur ensemble ; plusieurs perspectives |
+| **Personnalisation** | Focalisation sur les individus | Focalisation sur les institutions/système |
+| **Négativité** | Langage émotionnel, exagération | Langage neutre, factualité |
+| **Style** | « Presse de boulevard » (ironie, informel) | Langage formel |
+| **Scandales** | Jugements moraux | Pas de scandalisation |
+| **Conflit** | Mention de conflits, points de vue opposés | Pas de conflictualisation excessive |
+
+::: {.callout-warning}
+## Piège examen
+La logique médiatique n'est **pas** une option pour les politicien·ne·s : c'est une **contrainte** qu'ils·elles intègrent (cf. phase IV de Strömbäck). Ne pas la suivre = invisibilité médiatique = invisibilité politique (Wolfsfeld, 2011 : *si l'on n'existe pas dans les médias, l'on n'existe pas politiquement*).
+:::
+
+## Les 4 phases de la médiatisation (Strömbäck, 2008)
+
+C'est **LE** cadre central de cette séance. À connaître par cœur et savoir reconnaître à quelle phase correspond une description.
+
+### Les 4 dimensions analytiques
+
+Strömbäck (2008) propose 4 dimensions qui permettent de positionner une démocratie sur l'échelle de médiatisation :
+
+1. **Source d'information** la plus importante pour le public (politique elle-même → médias).
+2. **(In)dépendance** des médias par rapport à la politique.
+3. **Prédominance** de la logique politique ou médiatique **dans les médias**.
+4. **Prédominance** de la logique politique ou médiatique **chez les acteurs politiques**.
+
+### Les 4 phases (chacune correspond à un seuil franchi)
+
+| Phase | Caractéristique centrale | Ce qui change |
+|---|---|---|
+| **Phase I** | **Les médias deviennent la source d'information principale** du public sur la politique | La politique n'est plus directement accessible : on la perçoit *via* les médias |
+| **Phase II** | **Les médias deviennent indépendants** de la politique | Plus de presse partisane dominante ; les médias adoptent leur logique propre |
+| **Phase III** | **La logique médiatique prédomine dans les médias** | Les médias appliquent leurs critères (news values, dramatisation, personnalisation) à la couverture politique |
+| **Phase IV** | **Les acteurs politiques internalisent la logique médiatique** | Les politicien·ne·s anticipent la logique médiatique et s'y adaptent (organisation, communication, candidat·e·s) |
+
+::: {.callout-tip collapse="true"}
+## En simple
+- **Phase I** : tu ne vois la politique qu'à la télé / dans le journal.
+- **Phase II** : les médias ne sont plus aux ordres du parti.
+- **Phase III** : les médias parlent de la politique **à leur manière** (scandale, personnalisation, négativité).
+- **Phase IV** : les politicien·ne·s commencent à **parler comme la télé** pour exister à la télé.
+
+C'est un **continuum** : on est plus ou moins avancé selon les pays.
+:::
+
+## Les changements chez les acteurs politiques (Strömbäck & Van Aelst, 2013)
+
+Quand la médiatisation atteint la phase IV, les partis changent à 2 niveaux :
+
+### Changements organisationnels
+
+- Établissement d'un **service de communication** (personnel spécialisé, service de presse).
+- Inclusion du **chef·fe de communication** dans la direction du parti.
+- **Choix des cadres et candidat·e·s** en fonction de leur potentiel médiatique.
+
+### Changements communicationnels
+
+- **Stratégies proactives** (promotion d'enjeux, tentative d'influencer l'agenda médiatique).
+- **Adaptation** de la communication à la logique médiatique, organisation de conférences de presse / événements.
+- **Relations personnelles** avec les journalistes.
+
+## Pourquoi les partis s'adaptent-ils ? Les 4 arènes (Strömbäck & Van Aelst, 2013)
+
+Les partis sont des **acteurs stratégiques** qui cherchent à **maximiser la bonne publicité** et **minimiser la mauvaise**. Ils opèrent dans **4 arènes** :
+
+| Arène | Objectif | Pourquoi médiatiser |
+|---|---|---|
+| **Électorale** | Maximiser la force électorale | L'opinion publique compte ; *si l'on n'existe pas dans les médias, on n'existe pas politiquement* (Wolfsfeld, 2011) |
+| **Parlementaire** | Maximiser l'influence sur les politiques publiques | La visibilité médiatique pèse dans les négociations |
+| **Interne** | Maximiser la cohésion interne | Communication cohérente pour éviter dissensions |
+| **Médiatique** | Maximiser la bonne publicité | Cultiver la relation avec les journalistes |
+
+Stratégies = utilisation **offensive** (atteindre ses buts : *vote-seeking* / *policy-seeking* / *office-seeking*) **ou défensive** (minimiser les dégâts).
+
+## Conséquences pour la démocratie : le « médiamalaise »
+
+Le concept de médiatisation repose sur un **postulat implicite de conséquences négatives**.
+
+### Le diagnostic critique
+
+| Problème | Détail |
+|---|---|
+| **Perte d'autonomie de la politique** | *La politique médiatisée est une politique qui a perdu son autonomie, qui est devenue dépendante des médias de masse dans ses fonctions centrales et qui est continuellement façonnée par les interactions avec les médias de masse* (Mazzoleni & Schulz, 1999, 259) |
+| **Domination de la politique symbolique** | Le contenu de la politique compte moins que sa mise en scène |
+| **Problème de contrôle démocratique** | Les médias ne sont pas élus mais déterminent l'agenda |
+| **Manque d'intégration sociétale** | Cynisme, désintérêt, démobilisation |
+| **Médiamalaise** (Newton, 1999) | Apathie politique, aliénation, cynisme, perte de capital social |
+
+::: {.callout-important}
+## La citation à mobiliser à l'examen
+Newton (1999, 577) : *Selon certains, les médias de masse modernes ont un effet néfaste sur la démocratie moderne, tendant à induire une apathie politique, une aliénation, un cynisme et une perte de capital social — en un mot, un « médiamalaise ».*
+
+Attention : le terme « selon certains » signale que c'est **un point de vue**, pas un consensus.
+:::
+
+## Transformation digitale et démédiation
+
+Avec les **réseaux sociaux**, un canal de communication **direct** s'ouvre entre acteurs politiques et opinion publique. Les médias traditionnels ne sont **plus le seul** système intermédiaire.
+
+### Conséquences ambivalentes
+
+| Atténue le médiamalaise ? | Aggrave le médiamalaise ? |
+|---|---|
+| Permet de **contourner** la logique médiatique | Soumet à la logique des **algorithmes** (visibilité, engagement, polarisation) |
+| Réduit la **médiation** journalistique | Réduit le **fact-checking** |
+| Donne accès au **public direct** | Favorise les **fake news** et la désinformation |
+
+### Études citées
+
+- **Giger et al. (2021)** : contenus privés vs politiques sur Twitter — les politicien·ne·s mélangent les deux.
+- **Courbet (2026)** : concept de **sacralisation politique** = processus par lequel une fonction, institution ou acteur politique est élevé au rang de valeur sacrée, digne de respect et protégé de toute banalisation.
+- **Feddersen & Tresch** (en cours) : communication sur Twitter et apparitions dans les médias 2019.
+- **Neihouser & Haute (2022)** : idées fausses à propos des médias sociaux en politique (lecture obligatoire).
+
+::: {.callout-note}
+## Récapitulatif Ch.4
+- **Médiation** = constat (les médias au milieu) ; **médiatisation** = processus dynamique (adaptation de la politique à la logique médiatique).
+- **Logique médiatique** (Altheide & Snow 1979) : simplification, personnalisation, négativité, style boulevard, scandalisation, conflit. S'oppose à la **logique politique** (complexité, institutions, neutralité).
+- **4 phases de Strömbäck** : (I) médias = source principale, (II) indépendance des médias, (III) logique médiatique dans les médias, (IV) **internalisation** par les acteurs politiques.
+- **Adaptation des partis** (Strömbäck & Van Aelst 2013) : organisationnelle (service com, candidat·e·s médiatiques) + communicationnelle (stratégies proactives). Logique stratégique dans 4 arènes (électorale, parlementaire, interne, médiatique).
+- **Médiamalaise** (Newton 1999) : cynisme, démobilisation, perte de capital social. Postulat implicite des théories critiques.
+- **Démédiation** par les réseaux sociaux : contourne la médiation mais soumet à la logique des plateformes.
+:::

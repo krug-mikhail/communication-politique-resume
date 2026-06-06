@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Examen blanc 2 — Communication Politique (Difficile)</title>
+<style>
+  :root{
+    --acc:#7c2d12; --acc2:#9a3412; --vert:#15803d; --orange:#c2410c;
+    --rouge:#b91c1c;
+    --fond:#fbf7f4; --carte:#fff; --texte:#1f2937; --gris:#6b7280;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:var(--fond);color:var(--texte);line-height:1.55;padding-bottom:120px;
+    -webkit-text-size-adjust:100%}
+  header{background:linear-gradient(135deg,var(--acc),var(--acc2));
+    color:#fff;padding:32px 20px 26px;text-align:center}
+  header h1{font-size:1.5rem;margin-bottom:6px}
+  header p{opacity:.92;font-size:.93rem}
+  .wrap{max-width:820px;margin:0 auto;padding:18px 16px}
+  .intro{background:var(--carte);border-radius:14px;padding:18px 20px;margin:16px 0;
+    box-shadow:0 2px 10px rgba(0,0,0,.06);font-size:.93rem}
+  .intro b{color:var(--acc2)}
+  .nav-links{display:flex;gap:8px;flex-wrap:wrap;margin-top:12px}
+  .nav-links a{background:#f3e8e2;color:var(--acc2);padding:5px 10px;border-radius:6px;
+    text-decoration:none;font-size:.82rem;font-weight:600}
+  .nav-links a:hover{background:#ead4c8}
+  .nav-links a.current{background:var(--acc);color:#fff}
+  .partie{margin:32px 0 12px;padding:14px 18px;background:linear-gradient(135deg,var(--acc),var(--acc2));
+    color:#fff;border-radius:8px;font-weight:700;font-size:1.05rem;letter-spacing:.02em}
+  .partie .points{float:right;background:rgba(255,255,255,.2);padding:3px 10px;border-radius:12px;
+    font-size:.85rem;font-weight:600}
+  .section{margin:18px 0 12px;padding:7px 14px;background:#7c2d12;color:#fff;
+    border-radius:6px;font-weight:600;font-size:.92rem;opacity:.9}
+  .question{background:var(--carte);border-radius:12px;padding:18px;margin:12px 0;
+    box-shadow:0 2px 8px rgba(0,0,0,.05)}
+  .question.answered{border-left:4px solid var(--vert)}
+  .q-tag{display:inline-block;font-size:.72rem;font-weight:700;
+    background:#f3e8e2;color:#7c2d12;
+    padding:3px 9px;border-radius:20px;margin-bottom:10px;letter-spacing:.04em}
+  .q-type{display:inline-block;font-size:.7rem;font-weight:600;
+    background:#fef3c7;color:#92400e;padding:2px 8px;border-radius:20px;
+    margin-left:6px;text-transform:uppercase;letter-spacing:.04em}
+  .q-text{font-weight:600;margin-bottom:12px;font-size:.97rem}
+  .q-text code{background:#f1f5f9;padding:1px 6px;border-radius:5px;font-family:"SF Mono",Menlo,monospace;font-size:.86em}
+  .q-data{background:#f3e8e2;border-left:4px solid var(--acc);padding:9px 13px;
+    border-radius:6px;margin:8px 0;font-size:.9rem;line-height:1.5}
+  .options{list-style:none}
+  .options li{margin:6px 0}
+  .options label{display:block;border:2px solid #e5e7eb;border-radius:9px;padding:10px 14px;
+    cursor:pointer;transition:.15s;font-size:.93rem}
+  .options label:hover{border-color:var(--acc);background:#fdf6f1}
+  .options input[type=radio],.options input[type=checkbox]{margin-right:8px;cursor:pointer;vertical-align:middle}
+  .options label:has(input:checked){border-color:var(--acc);background:#f3e8e2;font-weight:600}
+  .opt-letter{font-weight:700;color:var(--acc);margin-right:6px}
+  textarea{width:100%;border:2px solid #e5e7eb;border-radius:9px;padding:10px 12px;
+    font-family:inherit;font-size:.93rem;resize:vertical;min-height:90px;
+    background:#fafbfc;color:var(--texte)}
+  textarea:focus{border-color:var(--acc);background:#fff;outline:none}
+  input[type=text]{width:100%;border:2px solid #e5e7eb;border-radius:9px;padding:8px 12px;
+    font-family:inherit;font-size:.93rem;background:#fafbfc}
+  input[type=text]:focus{border-color:var(--acc);background:#fff;outline:none}
+  .matching{display:flex;flex-direction:column;gap:8px;margin-top:8px}
+  .matching-item{display:grid;grid-template-columns:1fr auto 1fr;gap:10px;align-items:center;
+    padding:8px 12px;background:#fbf7f4;border-radius:8px}
+  .matching-item .m-left{font-weight:600;font-size:.9rem}
+  .matching-item .m-arrow{color:var(--gris);font-size:1.1rem}
+  .matching-item select{padding:6px 10px;border:2px solid #e5e7eb;border-radius:6px;
+    background:#fff;font-family:inherit;font-size:.88rem;cursor:pointer}
+  .matching-item select:focus{border-color:var(--acc);outline:none}
+  .matching-options{background:#f3e8e2;border-radius:6px;padding:8px 12px;
+    margin-top:8px;font-size:.85rem;line-height:1.5}
+  .matching-options b{color:var(--acc2)}
+  .hint{font-size:.82rem;color:var(--gris);margin-top:6px;font-style:italic}
+  .final-section{background:linear-gradient(135deg,#f3e8e2,#ead4c8);
+    border-radius:14px;padding:24px 22px;margin-top:24px;
+    text-align:center;border:2px solid var(--acc)}
+  .final-section h3{color:var(--acc2);margin-bottom:10px;font-size:1.15rem}
+  .answered-count{font-size:1.1rem;font-weight:700;color:var(--acc2);margin:10px 0}
+  .final-buttons{display:flex;gap:10px;justify-content:center;margin-top:14px;flex-wrap:wrap}
+  .btn{padding:11px 20px;border:none;border-radius:9px;font-size:.95rem;font-weight:700;
+    cursor:pointer;transition:.15s;font-family:inherit}
+  .btn-primary{background:var(--acc);color:#fff}
+  .btn-primary:hover{background:var(--acc2)}
+  .btn-secondary{background:#fff;color:var(--acc);border:2px solid var(--acc)}
+  .btn-secondary:hover{background:#fdf6f1}
+  .final-msg{margin-top:14px;font-size:.92rem;color:var(--acc2);line-height:1.5}
+  .barre{position:fixed;bottom:0;left:0;right:0;background:#fff;
+    box-shadow:0 -2px 12px rgba(0,0,0,.12);padding:10px 16px;z-index:10}
+  .barre-in{max-width:820px;margin:0 auto;display:flex;align-items:center;
+    justify-content:space-between;gap:12px}
+  .progress{flex:1;height:9px;background:#e5e7eb;border-radius:6px;overflow:hidden}
+  .progress span{display:block;height:100%;width:0;background:var(--acc);transition:.3s}
+  .score{font-weight:700;color:var(--acc2);white-space:nowrap;font-size:.92rem}
+  .reset{background:none;border:1.5px solid #cbd5e1;color:var(--gris);
+    border-radius:8px;padding:6px 12px;font-size:.82rem;cursor:pointer}
+  .reset:hover{border-color:var(--acc);color:var(--acc)}
+  footer{text-align:center;color:var(--gris);font-size:.82rem;padding:24px 16px}
+</style>
+</head>
+<body>
+<header>
+  <h1>Examen blanc 2 — Communication Politique (Difficile)</h1>
+  <p>Niveau+ · pièges classiques · application fine + lectures obligatoires · cas concrets</p>
+</header>
+
+<div class="wrap">
+
+<div class="intro">
+<b>Format de l'examen Feddersen — 60 min, 2 parties</b><br>
+Partie 1 : <b>Questions courtes</b> (V/F, QCM, fill-in, matching, calculs).<br>
+Partie 2 : <b>Questions de réflexion</b> (questions ouvertes courtes, ~5-10 lignes).<br>
+Matière : cours + lectures obligatoires. Aucun matériel (sauf dictionnaire).<br><br>
+<b>Mode d'emploi.</b> Réponds à toutes les questions. À la fin, copie/télécharge tes réponses et envoie-moi le résultat dans le chat — je corrige.
+<div class="nav-links">
+  <a href="./examen_blanc_1.html">Examen 1 (Réaliste)</a>
+  <a href="./examen_blanc_2.html" class="current">Examen 2 (Difficile)</a>
+</div>
+</div>
+
+<div class="partie"><span class="points">20 q</span>PARTIE 1 — Questions courtes (20 questions)</div>
+<div class="section">S1-S2 · Concepts &amp; sélection (Q1-Q7)</div>
+<div class="question" data-q="1" data-type="qcm">
+<span class="q-tag">Q1</span><span class="q-type">QCM</span>
+<div class="q-text">PIÈGE — Selon <b>Gerstlé &amp; Piar (2016)</b>, la conception <b>instrumentale</b> de la communication politique met l'accent sur :</div>
+<ul class="options">
+<li><label><input type="radio" name="q1" value="a"><span class="opt-letter">a.</span>Le processus interactif entre acteurs</label></li>
+<li><label><input type="radio" name="q1" value="b"><span class="opt-letter">b.</span>L'action des professionnels de la communication agissant pour le compte de professionnels de la politique</label></li>
+<li><label><input type="radio" name="q1" value="c"><span class="opt-letter">c.</span>La compétition pour l'attention publique</label></li>
+<li><label><input type="radio" name="q1" value="d"><span class="opt-letter">d.</span>La délibération démocratique inclusive</label></li>
+</ul>
+</div>
+<div class="question" data-q="2" data-type="multi">
+<span class="q-tag">Q2</span><span class="q-type">QCM MULTI</span>
+<div class="q-text">Parmi ces énoncés sur le <b>système politique suisse</b>, lesquels sont vrais ? (plusieurs réponses possibles)</div>
+<ul class="options">
+<li><label><input type="checkbox" name="q2" value="a"><span class="opt-letter">a.</span>Le Conseil fédéral compte 7 membres avec présidence tournante annuelle</label></li>
+<li><label><input type="checkbox" name="q2" value="b"><span class="opt-letter">b.</span>Le Conseil des États compte 200 sièges</label></li>
+<li><label><input type="checkbox" name="q2" value="c"><span class="opt-letter">c.</span>La « formule magique » désigne la composition du Conseil fédéral</label></li>
+<li><label><input type="checkbox" name="q2" value="d"><span class="opt-letter">d.</span>L'UDC, le PLR, Le Centre et le PS sont des partis gouvernementaux</label></li>
+</ul>
+</div>
+<div class="question" data-q="3" data-type="qcm">
+<span class="q-tag">Q3</span><span class="q-type">QCM</span>
+<div class="q-text">Selon <b>Manin (1995)</b>, la <b>démocratie représentative</b> actuelle se caractérise par :</div>
+<ul class="options">
+<li><label><input type="radio" name="q3" value="a"><span class="opt-letter">a.</span>Un électorat stable et partisan</label></li>
+<li><label><input type="radio" name="q3" value="b"><span class="opt-letter">b.</span>Une importance accrue de l'opinion publique et un électorat « informé et flottant »</label></li>
+<li><label><input type="radio" name="q3" value="c"><span class="opt-letter">c.</span>Un déclin des sondages</label></li>
+<li><label><input type="radio" name="q3" value="d"><span class="opt-letter">d.</span>Un retour à la presse partisane forte</label></li>
+</ul>
+</div>
+<div class="question" data-q="4" data-type="vf">
+<span class="q-tag">Q4</span><span class="q-type">V/F</span>
+<div class="q-text">Selon <b>Hänggli &amp; Kriesi (2010)</b>, le journalisme suisse est qualifié de « coopératif » : pendant les campagnes, les journalistes rapportent assez fidèlement les messages des politicien·ne·s.</div>
+<ul class="options">
+<li><label><input type="radio" name="q4" value="Vrai"><span class="opt-letter">V.</span>Vrai</label></li>
+<li><label><input type="radio" name="q4" value="Faux"><span class="opt-letter">F.</span>Faux</label></li>
+</ul>
+</div>
+<div class="question" data-q="5" data-type="matching">
+<span class="q-tag">Q5</span><span class="q-type">MATCHING</span>
+<div class="q-text">Relie chaque <b>service public</b> à sa caractéristique correcte.</div>
+<div class="matching-options"><b>Choix possibles :</b><br>A) Fréquence élevée de hard news, info équilibrée, style neutre, rôle éducatif<br>B) Fréquence élevée de soft news / infotainment, dépendance audience, risque de polarisation<br></div>
+<div class="matching">
+<div class="matching-item"><span class="m-left">Service public (SRG SSR)</span><span class="m-arrow">→</span><select><option value="">— Choisir —</option>
+<option value="A">A</option>
+<option value="B">B</option>
+</select></div>
+<div class="matching-item"><span class="m-left">Médias commerciaux</span><span class="m-arrow">→</span><select><option value="">— Choisir —</option>
+<option value="A">A</option>
+<option value="B">B</option>
+</select></div>
+</div>
+</div>
+<div class="question" data-q="6" data-type="qcm">
+<span class="q-tag">Q6</span><span class="q-type">QCM</span>
+<div class="q-text">Selon <b>Caple (2018)</b>, parmi les <b>news values</b> classiques (qui rendent une info digne d'être publiée), on retrouve :</div>
+<ul class="options">
+<li><label><input type="radio" name="q6" value="a"><span class="opt-letter">a.</span>Beauté, sérénité, lenteur, paix</label></li>
+<li><label><input type="radio" name="q6" value="b"><span class="opt-letter">b.</span>Négativité, proximité, conflit, célébrité, actualité (timeliness)</label></li>
+<li><label><input type="radio" name="q6" value="c"><span class="opt-letter">c.</span>Audience seule</label></li>
+<li><label><input type="radio" name="q6" value="d"><span class="opt-letter">d.</span>Le budget de l'annonceur</label></li>
+</ul>
+</div>
+<div class="question" data-q="7" data-type="ouverte">
+<span class="q-tag">Q7</span><span class="q-type">OUVERTE</span>
+<div class="q-text">Définis brièvement (1-2 phrases) ce qu'est l'<b>attention médiatique</b> et pourquoi elle est une « ressource politique rare ».</div>
+<textarea rows="4" placeholder="Ta réponse..."></textarea>
+<div class="hint">~3-4 lignes max</div>
+</div>
+<div class="section">S3-S4 · Effets, médiatisation (Q8-Q14)</div>
+<div class="question" data-q="8" data-type="qcm">
+<span class="q-tag">Q8</span><span class="q-type">QCM</span>
+<div class="q-text">PIÈGE — La <b>haute corrélation (0.967)</b> entre agendas médiatique et public dans Chapel Hill prouve-t-elle <b>la causalité</b> ?</div>
+<ul class="options">
+<li><label><input type="radio" name="q8" value="a"><span class="opt-letter">a.</span>Oui, c'est une preuve définitive</label></li>
+<li><label><input type="radio" name="q8" value="b"><span class="opt-letter">b.</span>Non — étude statique, on ne peut pas établir la direction de la causalité (un des critiques majeures)</label></li>
+<li><label><input type="radio" name="q8" value="c"><span class="opt-letter">c.</span>Oui, le test statistique le démontre</label></li>
+<li><label><input type="radio" name="q8" value="d"><span class="opt-letter">d.</span>La question ne se pose pas</label></li>
+</ul>
+</div>
+<div class="question" data-q="9" data-type="vf">
+<span class="q-tag">Q9</span><span class="q-type">V/F</span>
+<div class="q-text">Les effets d'agenda-setting sont <b>uniformes</b> et <b>tout-puissants</b> pour tous les publics.</div>
+<ul class="options">
+<li><label><input type="radio" name="q9" value="Vrai"><span class="opt-letter">V.</span>Vrai</label></li>
+<li><label><input type="radio" name="q9" value="Faux"><span class="opt-letter">F.</span>Faux</label></li>
+</ul>
+</div>
+<div class="question" data-q="10" data-type="fill">
+<span class="q-tag">Q10</span><span class="q-type">FILL-IN</span>
+<div class="q-text">Selon <b>D'Alessio &amp; Allen (2000)</b>, on distingue 3 types de biais médiatiques : (1) ______ (gatekeeping), (2) ______ (visibility), (3) ______.</div>
+<input type="text" placeholder="Réponse 1" style="margin:4px 0">
+<input type="text" placeholder="Réponse 2" style="margin:4px 0">
+<input type="text" placeholder="Réponse 3" style="margin:4px 0">
+
+<div class="hint">Noms des biais</div>
+</div>
+<div class="question" data-q="11" data-type="qcm">
+<span class="q-tag">Q11</span><span class="q-type">QCM</span>
+<div class="q-text">Le <b>two-step flow of communication</b> (Lazarsfeld) postule que :</div>
+<ul class="options">
+<li><label><input type="radio" name="q11" value="a"><span class="opt-letter">a.</span>Les médias affectent directement chaque individu</label></li>
+<li><label><input type="radio" name="q11" value="b"><span class="opt-letter">b.</span>Les médias affectent les leaders d'opinion qui à leur tour transmettent l'information à leurs cercles sociaux</label></li>
+<li><label><input type="radio" name="q11" value="c"><span class="opt-letter">c.</span>Les politiciens contrôlent les médias</label></li>
+<li><label><input type="radio" name="q11" value="d"><span class="opt-letter">d.</span>Le public n'a aucun rôle</label></li>
+</ul>
+</div>
+<div class="question" data-q="12" data-type="qcm">
+<span class="q-tag">Q12</span><span class="q-type">QCM</span>
+<div class="q-text">Selon <b>Strömbäck (2008)</b>, la phase 4 de la médiatisation est atteinte quand :</div>
+<ul class="options">
+<li><label><input type="radio" name="q12" value="a"><span class="opt-letter">a.</span>Les médias deviennent la source principale d'information</label></li>
+<li><label><input type="radio" name="q12" value="b"><span class="opt-letter">b.</span>Les médias deviennent indépendants de la politique</label></li>
+<li><label><input type="radio" name="q12" value="c"><span class="opt-letter">c.</span>La logique médiatique domine le contenu médiatique</label></li>
+<li><label><input type="radio" name="q12" value="d"><span class="opt-letter">d.</span>Les acteurs politiques internalisent la logique médiatique au point qu'elle devient leur propre logique de pensée et d'action</label></li>
+</ul>
+</div>
+<div class="question" data-q="13" data-type="ouverte">
+<span class="q-tag">Q13</span><span class="q-type">OUVERTE</span>
+<div class="q-text">Donne <b>3 indicateurs</b> de la <b>logique médiatique</b> (Landerer, 2014) avec un exemple concret pour chaque.</div>
+<textarea rows="5" placeholder="Ta réponse..."></textarea>
+<div class="hint">~4-5 lignes</div>
+</div>
+<div class="question" data-q="14" data-type="qcm">
+<span class="q-tag">Q14</span><span class="q-type">QCM</span>
+<div class="q-text">Selon Bernhard (2016, DeFacto), les citoyens sont <b>directement influencés</b> par les médias :</div>
+<ul class="options">
+<li><label><input type="radio" name="q14" value="a"><span class="opt-letter">a.</span>Toujours</label></li>
+<li><label><input type="radio" name="q14" value="b"><span class="opt-letter">b.</span>Jamais</label></li>
+<li><label><input type="radio" name="q14" value="c"><span class="opt-letter">c.</span>Lorsque certaines conditions sont remplies (faible info préalable, salience, alignement source-public)</label></li>
+<li><label><input type="radio" name="q14" value="d"><span class="opt-letter">d.</span>Uniquement à la TV</label></li>
+</ul>
+</div>
+<div class="section">S5-S7 · Marketing, campagnes, journalisme (Q15-Q20)</div>
+<div class="question" data-q="15" data-type="qcm">
+<span class="q-tag">Q15</span><span class="q-type">QCM</span>
+<div class="q-text">Selon <b>Fichter (2017)</b>, les politiciens suisses qui ont « compris Twitter » se caractérisent par :</div>
+<ul class="options">
+<li><label><input type="radio" name="q15" value="a"><span class="opt-letter">a.</span>Tweeter rarement et formellement</label></li>
+<li><label><input type="radio" name="q15" value="b"><span class="opt-letter">b.</span>Maîtriser la mise en récit, la régularité, l'humour, l'engagement direct avec les followers</label></li>
+<li><label><input type="radio" name="q15" value="c"><span class="opt-letter">c.</span>Acheter des followers</label></li>
+<li><label><input type="radio" name="q15" value="d"><span class="opt-letter">d.</span>Tweeter uniquement en allemand</label></li>
+</ul>
+</div>
+<div class="question" data-q="16" data-type="qcm">
+<span class="q-tag">Q16</span><span class="q-type">QCM</span>
+<div class="q-text">Selon <b>Reveilhac &amp; Morselli (2023)</b>, l'utilisation des médias sociaux par les <b>parlementaires élus suisses</b> :</div>
+<ul class="options">
+<li><label><input type="radio" name="q16" value="a"><span class="opt-letter">a.</span>N'a aucun impact</label></li>
+<li><label><input type="radio" name="q16" value="b"><span class="opt-letter">b.</span>A un impact mesurable sur la visibilité, mobilisation et lien avec les citoyens</label></li>
+<li><label><input type="radio" name="q16" value="c"><span class="opt-letter">c.</span>Est interdite</label></li>
+<li><label><input type="radio" name="q16" value="d"><span class="opt-letter">d.</span>Est uniforme entre tous les partis</label></li>
+</ul>
+</div>
+<div class="question" data-q="17" data-type="multi">
+<span class="q-tag">Q17</span><span class="q-type">QCM MULTI</span>
+<div class="q-text">Parmi ces <b>effets de campagnes</b>, lesquels sont distingués en science politique ? (plusieurs)</div>
+<ul class="options">
+<li><label><input type="checkbox" name="q17" value="a"><span class="opt-letter">a.</span>Mobilisation (faire voter ses partisans)</label></li>
+<li><label><input type="checkbox" name="q17" value="b"><span class="opt-letter">b.</span>Conversion (changer le vote d'un adversaire)</label></li>
+<li><label><input type="checkbox" name="q17" value="c"><span class="opt-letter">c.</span>Renforcement (consolider les soutiens existants)</label></li>
+<li><label><input type="checkbox" name="q17" value="d"><span class="opt-letter">d.</span>Acquisition (recruter de nouveaux membres)</label></li>
+</ul>
+</div>
+<div class="question" data-q="18" data-type="vf">
+<span class="q-tag">Q18</span><span class="q-type">V/F</span>
+<div class="q-text">Selon <b>Bühlmann et al. (2024)</b>, l'intensité perçue des campagnes de votations fédérales suisses est en moyenne <b>faible</b>, avec très peu d'effets d'auto-victimisation.</div>
+<ul class="options">
+<li><label><input type="radio" name="q18" value="Vrai"><span class="opt-letter">V.</span>Vrai</label></li>
+<li><label><input type="radio" name="q18" value="Faux"><span class="opt-letter">F.</span>Faux</label></li>
+</ul>
+</div>
+<div class="question" data-q="19" data-type="qcm">
+<span class="q-tag">Q19</span><span class="q-type">QCM</span>
+<div class="q-text">Selon <b>Polizzi (2018)</b>, la <b>critical literacy</b> (littératie critique) face aux fake news repose sur :</div>
+<ul class="options">
+<li><label><input type="radio" name="q19" value="a"><span class="opt-letter">a.</span>L'interdiction des réseaux sociaux</label></li>
+<li><label><input type="radio" name="q19" value="b"><span class="opt-letter">b.</span>Le partage de responsabilité entre plateformes, écoles, journalistes et citoyens</label></li>
+<li><label><input type="radio" name="q19" value="c"><span class="opt-letter">c.</span>L'algorithme seul</label></li>
+<li><label><input type="radio" name="q19" value="d"><span class="opt-letter">d.</span>L'absence de tout filtre</label></li>
+</ul>
+</div>
+<div class="question" data-q="20" data-type="ouverte">
+<span class="q-tag">Q20</span><span class="q-type">OUVERTE</span>
+<div class="q-text">Quelle est la <b>différence essentielle</b> entre <b>désinformation</b> et <b>mésinformation</b> ? Donne un exemple pour chaque.</div>
+<textarea rows="5" placeholder="Ta réponse..."></textarea>
+<div class="hint">~4-5 lignes</div>
+</div>
+<div class="partie"><span class="points">5 q</span>PARTIE 2 — Questions de réflexion (5 questions)</div>
+<div class="section">Questions ouvertes (Q21-Q25)</div>
+<div class="question" data-q="21" data-type="ouverte">
+<span class="q-tag">Q21</span><span class="q-type">OUVERTE</span>
+<div class="q-text"><b>Cas De Witte (2022, Ukraine).</b> Lis l'article de De Witte sur Stanford News à propos de la couverture du conflit en Ukraine. Quels <b>biais</b> (au sens de D'Alessio &amp; Allen) identifies-tu dans la couverture occidentale de cette guerre par rapport à d'autres conflits (Syrie, Yémen) ? Discute en mobilisant la <b>sélection médiatique</b>.</div>
+<textarea rows="10" placeholder="Ta réponse..."></textarea>
+<div class="hint">~8-10 lignes. Mobilise sélectivité/visibilité/présentation + news values.</div>
+</div>
+<div class="question" data-q="22" data-type="ouverte">
+<span class="q-tag">Q22</span><span class="q-type">OUVERTE</span>
+<div class="q-text"><b>Cas Neihouser &amp; Haute (2022).</b> L'article de The Conversation traite de « deux idées fausses » sur les réseaux sociaux pendant la présidentielle française. Quelles sont ces 2 idées fausses ? Que faut-il en retenir pour l'<b>analyse de la communication politique</b> ?</div>
+<textarea rows="10" placeholder="Ta réponse..."></textarea>
+<div class="hint">~8 lignes</div>
+</div>
+<div class="question" data-q="23" data-type="ouverte">
+<span class="q-tag">Q23</span><span class="q-type">OUVERTE</span>
+<div class="q-text"><b>Analyse comparative.</b> Compare le rôle de la <b>presse de qualité</b> (NZZ, Le Temps) et des <b>réseaux sociaux</b> (Twitter/X, TikTok) dans la <b>formation de l'opinion publique</b> en Suisse aujourd'hui. Mobilise au moins 3 concepts du cours (agenda-setting, médiatisation, déprivation informationnelle, etc.).</div>
+<textarea rows="10" placeholder="Ta réponse..."></textarea>
+<div class="hint">~10 lignes — comparaison structurée</div>
+</div>
+<div class="question" data-q="24" data-type="ouverte">
+<span class="q-tag">Q24</span><span class="q-type">OUVERTE</span>
+<div class="q-text"><b>Élaboration.</b> Imagine que tu conseilles une candidate aux <b>élections fédérales 2027</b> dans le canton de Fribourg. Elle dispose de <b>peu de budget</b> mais d'une bonne maîtrise des médias sociaux. <b>Élabore un plan de communication politique en 5 points</b>, en mobilisant <b>3 cadres théoriques du cours</b>.</div>
+<textarea rows="12" placeholder="Ta réponse..."></textarea>
+<div class="hint">~10-12 lignes — citations explicites des auteurs (Nai, Strömbäck, Boydstun, etc.)</div>
+</div>
+<div class="question" data-q="25" data-type="ouverte">
+<span class="q-tag">Q25</span><span class="q-type">OUVERTE</span>
+<div class="q-text"><b>Synthèse finale.</b> « Les médias sociaux ont-ils renforcé ou affaibli la démocratie ? » Construis un argumentaire <b>nuancé</b> (au moins 3 arguments de chaque côté + ta position personnelle justifiée). Mobilise les concepts du cours (deprivation informationnelle, fragmentation, fact-checking, two-step flow, polarisation, etc.) et les lectures obligatoires.</div>
+<textarea rows="12" placeholder="Ta réponse..."></textarea>
+<div class="hint">~12 lignes — structure pour/contre/synthèse</div>
+</div>
+
+
+<div class="final-section">
+<h3>🎓 Fin de l'examen</h3>
+<div class="answered-count">Réponses fournies : <span id="answered-count">0 / 25</span></div>
+<div class="final-msg">Envoie-moi tes réponses dans le chat pour correction avec score et commentaires détaillés.</div>
+<div class="final-buttons">
+  <button class="btn btn-primary" id="copyBtn" onclick="copyAnswers()">📋 Copier mes réponses</button>
+  <button class="btn btn-secondary" onclick="downloadAnswers()">💾 Télécharger en .txt</button>
+</div>
+</div>
+
+<footer>
+Examen blanc Communication Politique · Prof. Feddersen · SP 2026 · UNIFR
+</footer>
+
+</div>
+
+<div class="barre">
+  <div class="barre-in">
+    <button class="reset" onclick="if(confirm('Effacer toutes tes réponses ?'))location.reload()">Recommencer</button>
+    <div class="progress"><span id="bar"></span></div>
+    <div class="score">Répondues : <span id="score">0 / 25</span></div>
+  </div>
+</div>
+
+<script>
+const EXAM_NUM = 2;
+const TOTAL_Q = 25;
+
+function checkAnswered(q) {
+  var type = q.dataset.type;
+  if (type === 'qcm' || type === 'vf') {
+    return q.querySelector('input[type=radio]:checked') !== null;
+  } else if (type === 'multi') {
+    return q.querySelectorAll('input[type=checkbox]:checked').length > 0;
+  } else if (type === 'matching') {
+    var sels = q.querySelectorAll('select');
+    return Array.from(sels).every(s => s.value !== '');
+  } else if (type === 'fill') {
+    var inputs = q.querySelectorAll('input[type=text]');
+    return Array.from(inputs).every(i => i.value.trim() !== '');
+  } else {
+    var ta = q.querySelector('textarea, input[type=text]');
+    return ta && ta.value.trim() !== '';
+  }
+}
+
+function updateProgress() {
+  var answered = 0;
+  document.querySelectorAll('.question').forEach(function(q) {
+    if (checkAnswered(q)) {
+      answered++;
+      q.classList.add('answered');
+    } else {
+      q.classList.remove('answered');
+    }
+  });
+  document.getElementById('score').textContent = answered + ' / ' + TOTAL_Q;
+  document.getElementById('answered-count').textContent = answered + ' / ' + TOTAL_Q;
+  document.getElementById('bar').style.width = (answered / TOTAL_Q * 100) + '%';
+}
+
+document.querySelectorAll('input[type=radio], input[type=checkbox]').forEach(function(r) {
+  r.addEventListener('change', updateProgress);
+});
+document.querySelectorAll('textarea, input[type=text]').forEach(function(t) {
+  t.addEventListener('input', updateProgress);
+});
+document.querySelectorAll('select').forEach(function(s) {
+  s.addEventListener('change', updateProgress);
+});
+
+function collectAnswers() {
+  var lines = [];
+  var header = '=== EXAMEN BLANC COMM POLITIQUE ' + EXAM_NUM + ' · MES RÉPONSES ===\n';
+  header += 'Date : ' + new Date().toLocaleString('fr-CH') + '\n';
+  lines.push(header);
+
+  document.querySelectorAll('.question').forEach(function(q) {
+    var num = q.dataset.q;
+    var type = q.dataset.type;
+    var ans = '';
+
+    if (type === 'qcm' || type === 'vf') {
+      var c = q.querySelector('input[type=radio]:checked');
+      ans = c ? c.value : '[non répondu]';
+    } else if (type === 'multi') {
+      var checked = Array.from(q.querySelectorAll('input[type=checkbox]:checked')).map(c => c.value);
+      ans = checked.length > 0 ? checked.join(', ') : '[non répondu]';
+    } else if (type === 'matching') {
+      var items = [];
+      q.querySelectorAll('.matching-item').forEach(function(mi) {
+        var left = mi.querySelector('.m-left').textContent.trim();
+        var sel = mi.querySelector('select').value;
+        items.push('  ' + left + ' → ' + (sel || '[?]'));
+      });
+      ans = '\n' + items.join('\n');
+    } else if (type === 'fill') {
+      var blanks = Array.from(q.querySelectorAll('input[type=text]')).map((i, idx) => '[' + (idx+1) + '] ' + (i.value.trim() || '___'));
+      ans = blanks.join(' / ');
+    } else {
+      var ta = q.querySelector('textarea');
+      ans = ta && ta.value.trim() ? ta.value.trim() : '[non répondu]';
+    }
+
+    lines.push('Q' + num + '. ' + ans);
+  });
+
+  return lines.join('\n\n');
+}
+
+function downloadAnswers() {
+  var text = collectAnswers();
+  var blob = new Blob([text], {type: 'text/plain;charset=utf-8'});
+  var url = URL.createObjectURL(blob);
+  var a = document.createElement('a');
+  a.href = url;
+  a.download = 'mes_reponses_comm_pol_exam_' + EXAM_NUM + '.txt';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
+function copyAnswers() {
+  var text = collectAnswers();
+  navigator.clipboard.writeText(text).then(function() {
+    var btn = document.getElementById('copyBtn');
+    btn.textContent = '✓ Copié !';
+    btn.style.background = 'var(--vert)';
+    setTimeout(function() {
+      btn.textContent = '📋 Copier mes réponses';
+      btn.style.background = '';
+    }, 2500);
+  }).catch(function() {
+    alert('Impossible de copier. Utilise « Télécharger en .txt ».');
+  });
+}
+
+updateProgress();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,81 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "examen_blanc_1.html"
+    - "examen_blanc_2.html"
+
+website:
+  title: "Communication politique — Cours (théorie)"
+  description: "Résumé pédagogique du cours BA Communication politique — Prof. Feddersen, SP 2026"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - text: "Séances"
+        menu:
+          - href: 00_S1_Introduction.qmd
+            text: "S1 · Introduction"
+          - href: 01_S2_Selection_mediatique.qmd
+            text: "S2 · Sélection médiatique"
+          - href: 02_S3_Effets_medias.qmd
+            text: "S3 · Effets des médias"
+          - href: 03_S4_Mediatisation.qmd
+            text: "S4 · Médiatisation"
+          - href: 04_S5_Marketing_politique.qmd
+            text: "S5 · Marketing politique"
+          - href: 05_S6_Effets_campagnes.qmd
+            text: "S6 · Effets des campagnes"
+          - href: 06_S7_Journalisme_politique.qmd
+            text: "S7 · Journalisme politique"
+          - href: 07_S8_S9_Usage_medias.qmd
+            text: "S8-S9 · Usage des médias"
+          - href: 08_S10_Conclusion.qmd
+            text: "S10 · Conclusion"
+      - href: synthese.qmd
+        text: "Synthèse"
+      - href: glossaire.qmd
+        text: Glossaire
+      - href: format_examen.qmd
+        text: "Format examen"
+      - text: "Examens blancs"
+        menu:
+          - href: examen_blanc_1.html
+            text: "Examen 1 · Réaliste (mix questions courtes + réflexion)"
+          - href: examen_blanc_2.html
+            text: "Examen 2 · Difficile (pièges + lectures + cas)"
+  sidebar:
+    style: docked
+    search: true
+    contents:
+      - index.qmd
+      - section: "Séances du cours"
+        contents:
+          - 00_S1_Introduction.qmd
+          - 01_S2_Selection_mediatique.qmd
+          - 02_S3_Effets_medias.qmd
+          - 03_S4_Mediatisation.qmd
+          - 04_S5_Marketing_politique.qmd
+          - 05_S6_Effets_campagnes.qmd
+          - 06_S7_Journalisme_politique.qmd
+          - 07_S8_S9_Usage_medias.qmd
+          - 08_S10_Conclusion.qmd
+      - section: "Outils de révision"
+        contents:
+          - synthese.qmd
+          - glossaire.qmd
+          - format_examen.qmd
+
+execute:
+  enabled: false
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    number-sections: true
+    code-copy: true
+    code-overflow: wrap
+    smooth-scroll: true
+    link-external-newwindow: true

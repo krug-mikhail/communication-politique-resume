@@ -1,0 +1,217 @@
+---
+title: "S7 - Journalisme politique"
+---
+
+::: {.callout-tip}
+## Ce chapitre en 1 ligne
+Les médias remplissent **plusieurs fonctions** dans les démocraties (information, contrôle, intégration). Mais la conception du **rôle journalistique** n'est pas universelle : **2 (voire 3) modèles** coexistent — neutre-informationnel, partisan, et l'amateur émergent.
+:::
+
+## Les fonctions des médias
+
+Point à retenir : *Les médias assurent plusieurs fonctions dans les démocraties contemporaines. La compréhension du rôle du·de la journaliste n'est cependant pas universelle. Il existe plusieurs modèles de journalisme.*
+
+### Fonctions primaires
+
+#### 1. Diffusion de l'information (circuit complet)
+
+Triangle public ↔ système politique :
+
+| Direction | Contenu |
+|---|---|
+| Public → Système politique | **Revendications** |
+| Système politique → Public | **Décisions politiques** |
+| Public → Système politique | **Feedback** (réactions du public) |
+
+#### 2. Orientation grâce à la structuration de l'information
+
+- **Mise sur agenda**
+- **Amorçage**
+- **Cadrage**
+
+→ Ces trois mécanismes sont **les effets vus en S3**.
+
+#### 3. Formation de l'opinion publique et mobilisation
+
+- Couverture d'événements politiques.
+- Couverture de campagnes politiques.
+- **Horse-race journalism** : couverture des campagnes comme **jeu stratégique** (observé dans beaucoup de démocraties).
+- En Suisse : couverture **qualitativement satisfaisante** des campagnes (Hänggli & Feddersen, 2022).
+
+### Fonctions secondaires
+
+| Fonction | Détail |
+|---|---|
+| **Contrôle démocratique des élites** | Investigation, **journalisme watchdog** (chien de garde) |
+| **Intégration sociale** | Intérêt et empathie, contribution à l'identité nationale, éducation |
+
+::: {.callout-tip collapse="true"}
+## Le journalisme « watchdog »
+C'est le rôle de **contre-pouvoir** : les médias surveillent les élites politiques et économiques, dénoncent les abus. Exemples : Panama Papers (ICIJ 2016), enquêtes politiques. C'est la fonction la plus **normative** des médias en démocratie.
+:::
+
+## Modèle 1 : journalisme neutre-informationnel
+
+### Le rôle : les médias comme **institution**
+
+Existence d'une **série de normes et pratiques communes** concernant :
+
+1. La **définition** des nouvelles médiatiques.
+2. La **production** des nouvelles médiatiques.
+
+### Pourquoi adopter ces normes ?
+
+| Raison | Auteur |
+|---|---|
+| Réaction à un **environnement incertain** (économique, professionnel, informationnel) | Sparrow (1999, 2006) |
+| Principe d'**interaction** avec les acteurs politiques : recherche de **légitimité** politique et **crédibilité** professionnelle | Cook (1998), Ryfe (2006) |
+
+### Définition des nouvelles : les types (Kepplinger, 1998)
+
+| Type | Origine |
+|---|---|
+| **Initiées par les médias** | P.ex. interviews |
+| **Mises en scène par les acteurs politiques** (*staged events*) | Conférences de presse, événements de campagne |
+| **Événements véritables** (*genuine events*) | Catastrophe naturelle, attentat |
+
+→ Critère de sélection = **valeur médiatique** (S2). Pas déterminée à l'avance ; interaction **compétitive** entre médias et acteurs politiques pour la définir.
+
+### Production des nouvelles : le professionnalisme journalistique
+
+#### Principes éthiques (Conseil suisse de la presse)
+
+- Recherche de la **vérité**.
+- **Distinction** entre information et appréciation.
+- Connaissance des **sources** ; loyauté envers les sources.
+- **Absence de manipulation** ; rectification de l'information inexacte.
+- Respect de la **dignité et de la vie humaine**.
+
+#### Normes de présentation (McQuail, 1992)
+
+- **Objectivité / facticité**
+- **Diversité / pluralisme**
+
+### Conséquences du modèle neutre-informationnel
+
+| Conséquence | Détail |
+|---|---|
+| **Large convergence** dans la sélection des informations | Manin (1995) : information neutre et homogène |
+| **Mise sur agenda intermédiatique** | Mathes & Pfetsch (1991) : différents médias **s'observent et s'influencent** mutuellement |
+| **Effet du média hostile** (*hostile media effect*) | Vallone et al. (1985) : perception de la couverture comme biaisée **contre ses propres opinions, indépendamment de la réalité** |
+
+::: {.callout-important}
+## L'effet du média hostile à savoir précisément
+Même un média **objectivement neutre** est perçu comme **hostile** par les militants de chaque camp. Donc la « neutralité » journalistique ne suffit pas à éviter la suspicion politique.
+:::
+
+## Modèle 2 : journalisme partisan
+
+### Le rôle : les médias comme **acteurs**
+
+Rôle **actif et stratégique** surtout dans les **pages éditoriales**. La sélection de l'information est **orientée**. Pénétration de l'opinion éditoriale dans la partie rédactionnelle.
+
+### Journalisme partisan aujourd'hui
+
+- Déclin de la presse partisane depuis WW2.
+- Quotidiens gardent une **ligne éditoriale** qui constitue leur **identité** (McNair, 2003).
+- **Affinité idéologique** entre certains médias et certains partis (sans appartenance formelle).
+
+Exemple suisse : *Weltwoche* et UDC.
+
+### Orientation idéologique : 2 niveaux
+
+| Niveau | Manifestations |
+|---|---|
+| **Explicite** (pages éditoriales) | Positions politiques et recommandations (ex. votations) ; interprétation d'événements ; évaluation des performances des acteurs ; attribution de responsabilités |
+| **Implicite** (partie rédactionnelle) | Sélection idéologiquement orientée ; **synchronisation** avec l'éditorial : thèmes (Eilders 1999), arguments/cadrages (Schönbach 1977), positions/acteurs (Hagen 1993 ; Kepplinger et al. 1991) |
+
+### Conséquences du modèle partisan
+
+| Conséquence | Auteur |
+|---|---|
+| **Exposition sélective** à l'information conforme aux prédispositions | — |
+| **Augmentation de la participation électorale** par renforcement des prédispositions partisanes | Van Kempen (2007) |
+| **Polarisation croissante** de l'audience | Iyengar & Hahn (2009) |
+| **Effet direct** sur l'évaluation des candidat·e·s | Kahn & Kenney (2002) |
+| **Effet indirect** sur le choix électoral | Druckman & Parkin (2005) |
+
+## Modèle 3 (émergent) : journalisme amateur
+
+### Définition (Atton, 2008)
+
+> *Les producteur·ice·s médiatiques amateur·ice·s ont généralement peu ou pas de formation ou de qualifications professionnelles en tant que journalistes.*
+
+Autres noms : **journalisme citoyen**, **journalisme alternatif**.
+
+### Pourquoi maintenant ?
+
+- Nouvelles technologies (réseaux sociaux, blogs, smartphones).
+- Possibilité pour **« tout un chacun »** de diffuser à un large public.
+- **Facilitation** par certains médias de masse (apps de signalement, photos de lecteur·ice·s).
+
+### Caractéristiques
+
+- **Immédiateté**
+- **Focalisation sur l'image**
+
+### Conséquences du journalisme amateur
+
+| Conséquence | Détail |
+|---|---|
+| **Absence de contrôle de l'accès** (gate-keeping) | Plus personne ne filtre |
+| **Circulation de nouvelles non-vérifiées** | Risque de désinformation |
+| **Augmentation de la couverture épisodique** | Au détriment du cadrage thématique |
+| **Recomposition du rôle des journalistes pro** | Deviennent **vérificateur·ice·s** |
+
+::: {.callout-warning}
+## Piège examen — Camus et le journalisme
+Sur le contrôle intermédiaire II était tombée la citation de Camus : *« Le rôle du journaliste est de relater la vérité… »*. Réponse attendue : journalisme **neutre-informationnel**.
+
+Reconnais-le aux mots-clés : **vérité**, **mentir** (interdiction), **principes éthiques**, **objectivité**, **dignité**.
+:::
+
+## Désinformation, mésinformation, fake news (Eisenegger, 2021)
+
+S7 prépare aussi le bloc S8-S9 sur la désinformation. Distinctions à connaître :
+
+| Terme | Intention | Définition |
+|---|---|---|
+| **Désinformation** | **Volontaire** | Information fausse **diffusée délibérément** pour tromper |
+| **Mésinformation** | **Non volontaire** | Information fausse **diffusée par erreur** (sans intention de nuire) |
+| **Mal-information** | Volontaire | Information **vraie** mais sortie de son contexte pour nuire |
+| **Fake news** | Souvent volontaire | Terme englobant (politique) : nouvelles fausses présentées comme légitimes |
+
+### Le travail d'Eisenegger (Zurich Yearbook)
+
+Eisenegger et l'équipe du **Zurich Yearbook on the Quality of the Media** documentent :
+
+- L'érosion de la **qualité de l'information** dans les démocraties.
+- L'augmentation des **fake news** et de la **désinformation**.
+- La **déprivation informationnelle** d'une partie croissante de la population (cf. S8-S9).
+
+### Le fact-checking comme réponse
+
+Le **fact-checking** est devenu une fonction journalistique à part entière :
+
+- Vérification systématique des déclarations politiques.
+- Plateformes dédiées (CrossCheck en France, Bellingcat, etc.).
+- Lecture conseillée : **Bernhard (2016) sur DeFacto**.
+
+### IA et journalisme
+
+L'IA générative (depuis ChatGPT, 2022) bouleverse le journalisme :
+
+| Opportunité | Risque |
+|---|---|
+| Automatisation des tâches répétitives (résumés, traduction) | **Hallucinations** factuelles |
+| Personnalisation des contenus | **Désinformation à grande échelle** (textes, images, deepfakes) |
+| Aide à l'investigation (analyse de larges corpus) | Concentration sur quelques fournisseurs (OpenAI, Google) |
+
+::: {.callout-note}
+## Récapitulatif Ch.7
+- **Fonctions des médias** : (primaires) diffusion d'info, orientation (agenda, priming, framing), formation de l'opinion ; (secondaires) contrôle démocratique (watchdog), intégration sociale.
+- **Modèle 1 — neutre-informationnel** : médias = institution ; normes pro (Conseil suisse de la presse, McQuail) ; convergence, **mise sur agenda intermédiatique** (Mathes & Pfetsch 1991), **effet du média hostile** (Vallone et al. 1985).
+- **Modèle 2 — partisan** : médias = acteurs ; orientation explicite (éditorial) + implicite (rédaction synchronisée) ; participation ↑ (Van Kempen 2007), polarisation (Iyengar & Hahn 2009).
+- **Modèle 3 — amateur** (Atton 2008) : journalisme citoyen ; absence de gate-keeping, nouvelles non-vérifiées, couverture épisodique.
+- **Désinformation** (Eisenegger 2021) : volontaire ≠ mésinformation (involontaire). **Fact-checking** comme réponse (Bernhard 2016, DeFacto). **IA** = double-tranchant.
+:::

@@ -1,0 +1,200 @@
+---
+title: "Synthèse"
+---
+
+::: {.callout-tip}
+## À propos
+Tableau récap de tous les **frameworks** par séance, le **workflow examen** et **3 modèles d'analyse type**. À utiliser comme cheatsheet de dernière minute avant l'examen.
+:::
+
+## Tableau maître : tous les frameworks par séance
+
+| # | Séance | Framework central | Auteur(s) | Apport |
+|---|---|---|---|---|
+| **S1** | Introduction | **4 conceptions de la communication politique** | Norris (interactionnelle), Blumler (compétitive), Riutort (instrumentale), Gerstlé & Piar (délibérative) | Définir l'objet du cours |
+| **S1** | Introduction | **Triangle** de la com. politique | Norris (2001) | Acteurs politiques · acteurs médiatiques · public |
+| **S1** | Introduction | **Polity / politics / policies** | Sciarini (2023) | Distinguer institutions, processus, politiques publiques |
+| **S2** | Sélection | **3 biais médiatiques** | D'Alessio & Allen (2000) | Sélectivité, couverture, présentation |
+| **S2** | Sélection | **News values** | Galtung & Ruge (1965) | Violence, proximité, nouveauté, acteurs, population, complexité |
+| **S2** | Sélection | **3 approches de production** | Boydstun (2013) | Organisationnelle, marché, traitement disproportionné |
+| **S2** | Sélection | **Tempête médiatique** | Boydstun et al. (2014) | ≥150 %, ≥100 articles, ≥1 semaine, plusieurs publications |
+| **S3** | Effets | **Agenda-setting** | McCombs & Shaw (1972) | À quoi penser |
+| **S3** | Effets | **Priming (amorçage)** | Iyengar & Kinder (1987) | Critères de jugement |
+| **S3** | Effets | **Framing (cadrage)** | Entman (1993) | Comment penser |
+| **S3** | Effets | **Thématique vs épisodique** | Iyengar (1991) | Attribution de responsabilité |
+| **S3** | Effets | **Two-step flow** | Lazarsfeld et al. (1944) | Effets via leaders d'opinion |
+| **S4** | Médiatisation | **4 phases** | Strömbäck (2008) | Source d'info → indépendance → logique médiatique dans médias → internalisation politique |
+| **S4** | Médiatisation | **Logique médiatique vs politique** | Altheide & Snow (1979), Landerer (2014) | 6 indicateurs (complexité, perso, négativité, etc.) |
+| **S4** | Médiatisation | **4 arènes d'adaptation** | Strömbäck & Van Aelst (2013) | Électorale, parlementaire, interne, médiatique |
+| **S4** | Médiatisation | **Médiamalaise** | Newton (1999) | Cynisme, démobilisation |
+| **S5** | Marketing | **4 étapes du marketing électoral** | Mauser (1983) | Analyse, stratégie, conduite, analyse |
+| **S5** | Marketing | **4 segments d'électorat** | — | Acquis, potentiel, flottant, opposition |
+| **S5** | Marketing | **Espace idéologique 2D** | Adams et al. (2020) | Économique × sociétal (GAL-TAN) |
+| **S5** | Marketing | **Propriété d'enjeux** | Petrocik (1996) | Chaque parti a ses enjeux crédibles |
+| **S5** | Marketing | **Partis de niche** | Meguid (2008) | Enjeu spécifique, flou ailleurs |
+| **S5** | Marketing | **Campagnes négatives** | Lau & Rovner (2009), Nai (2016), Stuckelberger (2021) | Démobilise global, mobilise base |
+| **S6** | Effets campagnes | **3 catégories d'effets** | Iyengar & Simon (2000) | Choix de vote, apprentissage/mobilisation, agenda/priming |
+| **S6** | Effets campagnes | **3 modèles** | — | Hypodermique, résonance, stratégique |
+| **S6** | Effets campagnes | **Receive-Accept-Sample** | Zaller (1992) | Effets en U inversé selon sophistication |
+| **S6** | Effets campagnes | **Effets limités** | Iyengar & Petrocik (1998) | Activation des prédispositions |
+| **S7** | Journalisme | **Fonctions des médias** | — | Primaires (info, orientation, opinion) + secondaires (watchdog, intégration) |
+| **S7** | Journalisme | **Modèle neutre-informationnel** | Cook (1998), Sparrow (1999) | Médias = institution |
+| **S7** | Journalisme | **Modèle partisan** | McNair (2003) | Médias = acteurs |
+| **S7** | Journalisme | **Modèle amateur** | Atton (2008) | Journalisme citoyen |
+| **S7** | Journalisme | **Effet du média hostile** | Vallone et al. (1985) | Perception de biais contre soi |
+| **S7** | Journalisme | **Agenda-setting intermédiatique** | Mathes & Pfetsch (1991) | Médias s'influencent mutuellement |
+| **S8-S9** | Usage | **Théorie U&G** | Katz, Blumler & Gurevitch (1973) | Public actif, 4 besoins |
+| **S8-S9** | Usage | **Fragmentation** | — | Public de masse → niches |
+| **S8-S9** | Usage | **Déprivation informationnelle** | Zurich Yearbook (2022) | Inégalité d'accès à l'info |
+| **S8-S9** | Usage | **Désinformation, mésinformation** | Eisenegger (2021) | Volontaire vs involontaire |
+| **S8-S9** | Usage | **Médialitératie** | — | Accès, analyse, évaluation, création |
+
+## Tableau de lecture : 4 grandes thématiques transversales
+
+### 1. Le triangle de la com. politique
+
+Chaque effet décrit dans le cours suit le triangle. Pour analyser n'importe quel cas, demande-toi :
+
+- Qui est **l'émetteur** ? (acteur politique / médias / public)
+- Qui est le **récepteur** ? (idem)
+- Quel est le **canal** ? (TV, presse, RS)
+- Quel est le **message** ? (contenu, cadrage)
+- Quel est l'**effet attendu** ? (mise sur agenda, priming, framing, persuasion, mobilisation)
+
+### 2. La sélection médiatique
+
+| Étape | Mécanisme | Auteur |
+|---|---|---|
+| Couverture | Biais de sélectivité / couverture | D'Alessio & Allen |
+| Décision | News values | Galtung & Ruge |
+| Production | 3 approches | Boydstun |
+| Amplification | Tempête médiatique | Boydstun et al. |
+
+### 3. Les effets sur le public
+
+| Effet | Mécanisme | Auteur |
+|---|---|---|
+| Agenda | Volume → importance | McCombs & Shaw |
+| Priming | Volume → critère de jugement | Iyengar & Kinder |
+| Framing | Cadrage → perception | Entman |
+| Persuasion | Message → attitude | Perloff |
+| Mobilisation | Campagne → participation | Ansolabehere & Iyengar |
+| Renforcement | Repères partisans | Coppock, Zaller |
+
+### 4. Le rôle des médias
+
+| Rôle | Modèle | Auteur |
+|---|---|---|
+| Information neutre | Neutre-informationnel | Cook |
+| Acteur partisan | Partisan | McNair |
+| Citoyen amateur | Amateur | Atton |
+| Watchdog | Investigation | — |
+
+## Workflow examen
+
+### 1 semaine avant
+
+- [ ] Relire les 9 chapitres (10 incl. conclusion).
+- [ ] Apprendre par cœur le **tableau maître** ci-dessus (frameworks + auteurs).
+- [ ] Relire les **lectures obligatoires** :
+  - Sciarini 2024 — *Politique suisse* (S1, polity/politics/policies, institutions CH)
+  - Hänggli & Feddersen 2023 — Médias et com. politique en CH
+  - De Witte 2022 — Ukraine (sélection médiatique)
+  - Bernhard 2016 — DeFacto (fact-checking)
+  - Neihouser & Haute 2022 — Idées fausses sur RS (S4)
+  - Nai 2016 — Campagnes négatives (S5)
+  - Marquis & Tresch 2022 — Climat 2019 (S6)
+  - Eisenegger 2021 — Désinformation (S7)
+  - Zurich Yearbook 2022 — Déprivation info (S8-S9)
+- [ ] Faire des **flashcards** auteur → concept.
+- [ ] S'entraîner aux **questions courtes** : 2-3 phrases denses sur chaque concept.
+
+### Jour J
+
+- **5 questions courtes (5 pts)** : 2-3 phrases chacune, vise la **densité**. Schéma : (1) concept + définition courte ; (2) auteur principal ; (3) un exemple ou nuance.
+- **2 questions de réflexion (5 pts)** : 2-3 paragraphes. Schéma : (1) cadre théorique + concepts mobilisés ; (2) argument(s) avec auteurs ; (3) illustration par une lecture ; (4) nuance/contrepoint.
+
+### Pendant l'examen
+
+1. **Lis tout** d'abord (5 min) : repère ce que tu connais le mieux.
+2. **Commence par les questions courtes** (faciles à points).
+3. **Calibre le temps** : ~5 min par question courte, ~15 min par réflexion.
+4. **Garde 5 min** pour relire.
+
+## 3 modèles d'analyse type
+
+### Modèle 1 : analyser un événement politique médiatisé
+
+**Exemple type** : la couverture médiatique d'une votation, d'une élection, d'une crise.
+
+**Structure d'analyse** :
+
+1. **Qui sont les acteurs** ? Triangle complet.
+2. **Quelle sélection médiatique** ? (S2)
+   - Quels biais (sélectivité, couverture, présentation) ?
+   - Quelles news values dominent ?
+   - Y a-t-il tempête médiatique ?
+3. **Quels effets attendus** sur le public ? (S3)
+   - Agenda-setting ?
+   - Amorçage ?
+   - Cadrage (thématique vs épisodique) ?
+4. **Quel modèle journalistique** prédomine ? (S7) Neutre, partisan, mixte ?
+5. **Quelles conséquences démocratiques** ? (S4, S8-S9)
+
+### Modèle 2 : analyser une campagne politique
+
+**Exemple type** : campagne UDC pour une votation, campagne climat Verts 2019.
+
+**Structure d'analyse** :
+
+1. **Quelle période historique** ? (S6 : pré-moderne / moderne / post-moderne)
+2. **Quelles 4 étapes du marketing** ? (Mauser, 1983)
+   - Analyse (sondages, focus groups, opposition research)
+   - Stratégie (segmentation, positionnement, propriété d'enjeux)
+   - Conduite (canaux, timing, ressources)
+   - Évaluation
+3. **Quel positionnement** sur les 2 axes ?
+4. **Stratégie offensive ou défensive** ? Campagne négative ?
+5. **Quels effets attendus** ? (S6)
+   - Modèle hypodermique, résonance ou stratégique ?
+   - Effet direct (choix de vote) ou indirect (agenda, priming) ?
+6. **Quel rôle des RS et de la démédiation** ? (S4-S5)
+
+### Modèle 3 : analyser un article de presse
+
+**Exemple type** : critiquer un article politique (cf. exemple Le Temps).
+
+**Structure d'analyse** :
+
+1. **Quel type de média** ? (S1 : qualité, régional, populaire, service public, commercial)
+2. **Quel modèle journalistique** ? (S7) Indices : ton, ligne éditoriale, présentation.
+3. **Quels biais** ? (S2 : sélectivité, couverture, présentation)
+4. **Quel cadrage** ? (S3) Cadre d'emphase ? Thématique ou épisodique ?
+5. **Quels effets attendus** sur le lecteur·rice ? (S3 : agenda, priming, framing)
+6. **Cadre dans le triangle** : quel acteur politique cité ? Quel angle public ?
+7. **Si possible** : confronter à un autre média sur le même fait pour identifier les biais comparatifs.
+
+## Cheatsheet finale : les 20 choses à savoir absolument
+
+1. **4 conceptions** de la com. politique (Norris, Blumler, Riutort, Gerstlé & Piar).
+2. Le **triangle** : acteurs politiques · médias · public.
+3. **Polity / politics / policies** (Sciarini).
+4. **3 institutions CH** : fédéralisme, neutralité, démocratie directe.
+5. **Concordance + formule magique** au CF.
+6. **3 biais** (D'Alessio & Allen) : sélectivité, couverture, présentation.
+7. **News values** (Galtung & Ruge) : violence, proximité, nouveauté, acteurs, population, complexité.
+8. **3 approches de production** (Boydstun) : organisationnelle, marché, traitement disproportionné.
+9. **Tempête médiatique** : 3 critères (≥150 %, ≥100 articles, ≥1 semaine).
+10. **Agenda-setting** (McCombs & Shaw 1972) : volume → importance. Chapel Hill : 0.967.
+11. **Priming** (Iyengar & Kinder 1987) : volume → critère de jugement.
+12. **Framing** (Entman 1993) : sélection d'aspects + définition + interprétation + évaluation + recommandation.
+13. **Thématique vs épisodique** (Iyengar 1991) : responsabilité sociale vs individuelle.
+14. **Médiation vs médiatisation** : constat statique vs processus dynamique.
+15. **4 phases de Strömbäck** : source d'info → indépendance → logique médiatique dans médias → internalisation politique.
+16. **Logique médiatique vs politique** : 6 indicateurs (complexité, perso, négativité, style, scandales, conflit).
+17. **4 étapes du marketing** (Mauser) + **propriété d'enjeux** (Petrocik 1996).
+18. **3 modèles d'effets de campagne** : hypodermique, résonance (Zaller : U inversé), stratégique.
+19. **2 modèles de journalisme** : neutre-informationnel (institution, Cook) vs partisan (acteurs, McNair). + amateur (Atton).
+20. **Désinformation (volontaire) vs mésinformation (involontaire)** (Eisenegger 2021).
+
+Bonne chance à l'examen.

@@ -1,0 +1,310 @@
+---
+title: "Glossaire"
+---
+
+::: {.callout-tip}
+## À propos
+Glossaire alphabétique des concepts du cours. Chaque terme est défini en **langage simple** + la **séance** où il est abordé. À consulter pour réviser, identifier un concept dans une question, ou caler un vocabulaire pour la partie réflexion.
+:::
+
+## A
+
+**Acteurs médiatiques** (S1) — Ensemble des institutions médiatiques, publications, journalistes, éditeur·ice·s et propriétaires. Un des 3 sommets du triangle de la communication politique.
+
+**Acteurs politiques** (S1) — Politicien·ne·s, candidat·e·s, institutions, partis. Un des 3 sommets du triangle.
+
+**Agenda médiatique** (S2-S3) — Hiérarchie des enjeux couverts par les médias à un moment donné. À comparer à l'agenda public et à l'agenda politique.
+
+**Agenda public** (S3) — Hiérarchie des enjeux considérés comme importants par le public. McCombs & Shaw (1972) ont montré qu'il est fortement corrélé à l'agenda médiatique.
+
+**Agenda politique** (S2-S3) — Hiérarchie des enjeux traités par les acteurs politiques (parlement, gouvernement). En CH, domine pendant les campagnes (Hänggli & Feddersen, 2022).
+
+**Agenda-setting (mise sur agenda)** (S3) — Théorie de McCombs & Shaw (1972) : le volume de couverture d'un enjeu détermine l'importance que le public lui accorde. *La presse dit à quoi penser, pas ce qu'il faut penser* (Cohen, 1963).
+
+**Agenda-setting intermédiatique** (S7) — Les médias s'influencent mutuellement dans leur choix de nouvelles (Mathes & Pfetsch, 1991). Explique la convergence du modèle neutre-informationnel.
+
+**Américanisation des campagnes** (S6) — Tendance globale : hypermédiatisation, personnalisation, professionnalisation, négativité, horse-race journalism (Plasser & Plasser, 2023).
+
+**Amorçage (priming)** (S3) — Théorie d'Iyengar & Kinder (1987) : le volume de couverture d'un enjeu influence le **poids** que le public lui accorde comme **critère de jugement** des acteurs politiques.
+
+**Assemblée fédérale** (S1) — Parlement suisse, composé du Conseil national (200 sièges, chambre du peuple) et du Conseil des États (46 sièges, chambre des cantons).
+
+## B
+
+**Biais de couverture / visibilité** (S2) — Certains événements/acteurs sont plus visibles que d'autres (D'Alessio & Allen, 2000).
+
+**Biais de présentation** (S2) — La couverture est plus favorable envers certains acteurs/enjeux. Prépare le cadrage (D'Alessio & Allen, 2000).
+
+**Biais de sélectivité (gatekeeping)** (S2) — Certains événements/acteurs (ne) sont volontairement (pas) couverts (D'Alessio & Allen, 2000).
+
+**Biais de confirmation** (S8-S9) — Tendance à privilégier les informations qui confirment ses croyances préexistantes. Mécanisme central des fake news.
+
+**Branding politique** (S5) — Marketing : construire une image cohérente et reconnaissable d'un parti ou d'un·e candidat·e.
+
+## C
+
+**Cadrage (framing)** (S3) — Entman (1993) : sélectionner certains aspects d'une réalité perçue et les rendre plus saillants, de manière à promouvoir une définition, interprétation ou évaluation particulière.
+
+**Cadre de communication (frame in communication)** (S3) — Niveau macro : les cadres présents dans les médias.
+
+**Cadre de pensée (frame in thought)** (S3) — Niveau micro : la compréhension structurée par les individus (Goffman, 1974).
+
+**Cadrage d'emphase** (S3) — Sélection d'aspects spécifiques d'un enjeu (ex. immigration cadrée comme économique, sécuritaire ou humanitaire).
+
+**Cadrage thématique vs épisodique** (S3) — Iyengar (1991) : thématique = vue d'ensemble (responsabilité à la société) ; épisodique = portrait individuel (responsabilité à l'individu). L'épisodique domine.
+
+**Campagne négative (negative campaigning)** (S5) — Attaquer l'autre candidat·e personnellement, ses positions ou son parti (Surlin & Gordon, 1977). Démobilise globalement mais mobilise la base de l'attaquant (Stuckelberger, 2021).
+
+**Campagnes permanentes** (S6) — Avec les réseaux sociaux et les pré-campagnes, la communication électorale ne s'arrête plus jamais.
+
+**Candidat·e flottant·e / Électeur·ice flottant·e** (S1, S5) — Électeur·ice sans attache partisane stable, cible privilégiée du marketing politique (Manin, 1995).
+
+**Chambre d'écho (echo chamber)** (S8-S9) — Environnement informationnel où les opinions sont uniformes ; renforce la polarisation.
+
+**Chapel Hill Study** (S3) — Étude pionnière de McCombs & Shaw (1972) : corrélation de 0.967 entre agenda médiatique et agenda public lors de la campagne US 1968.
+
+**Communication politique** (S1) — Selon Norris (2001), processus interactif de transmission d'information entre acteurs politiques, médias et public. 4 conceptions chez Gerstlé & Piar (2016).
+
+**Concordance** (S1) — Système suisse d'intégration des principales forces politiques au sein du gouvernement. Se concrétise dans la formule magique.
+
+**Conseil des États** (S1) — Chambre haute, 46 membres (2 par canton).
+
+**Conseil fédéral** (S1) — Gouvernement suisse, 7 membres élus par l'Assemblée fédérale, présidence tournante (1 an), principe primus inter pares.
+
+**Conseil national** (S1) — Chambre basse, 200 membres, représentation (plus ou moins) proportionnelle.
+
+**Conversion** (S6) — Effet (rare) d'une campagne : faire changer un·e électeur·ice de camp. Effets directs limités (Iyengar & Petrocik, 1998).
+
+## D
+
+**Démédiation** (S4) — Tendance à contourner les médias traditionnels par communication directe via les réseaux sociaux.
+
+**Démocratie directe** (S1) — Une des 3 institutions fondamentales suisses (avec fédéralisme et neutralité). 90 % des votant·e·s s'informent sur les objets via la presse écrite.
+
+**Déprivation informationnelle** (S8-S9) — Situation où une partie de la population n'a plus accès à une information politique de qualité. En augmentation en CH (Zurich Yearbook, 2022).
+
+**Désinformation** (S7, S8-S9) — Information fausse diffusée **volontairement** pour tromper (Eisenegger, 2021).
+
+## E
+
+**Effet du média hostile (hostile media effect)** (S7) — Vallone et al. (1985) : perception de la couverture médiatique comme biaisée **contre ses propres opinions**, indépendamment de la réalité objective.
+
+**Effets directs** (S6) — Effet immédiat d'un message sur l'attitude/comportement. En général limités selon la recherche moderne.
+
+**Effets indirects** (S6) — Effets passant par d'autres mécanismes (mise sur agenda, amorçage). Plus robustes empiriquement.
+
+**Effets limités** (S3, S6) — Phase de la recherche (Lazarsfeld et al.) qui constate que les médias n'ont qu'un effet faible sur les opinions ; influence passe par les leaders d'opinion.
+
+**Effets omnipotents** (S3) — Première phase historique (1900-1940) : modèle de la seringue hypodermique, public passif.
+
+**Effets négociés** (S3) — Phase contemporaine : effets conditionnés par contexte, individus, type d'enjeu et type de médias.
+
+**Émetteur·trice** (S6) — Source d'un message (cf. modèle de la persuasion de Perloff).
+
+**Enjeu** (S3) — Selon Feddersen (2019, 27) : une vaste question de politique publique, qui représente un domaine de concurrence pour les acteurs publics et qui peut donner lieu à une ou plusieurs positions.
+
+**Espace public** (S1, S4) — Lieu (matériel ou symbolique) où se forme l'opinion publique par délibération (Habermas, Gerstlé & Piar).
+
+**Exposition sélective** (S7) — Tendance à choisir les médias conformes à ses prédispositions politiques. Conséquence du journalisme partisan.
+
+## F
+
+**Fact-checking** (S7, S8-S9) — Vérification systématique des déclarations factuelles dans les médias. Plateformes : DeFacto (Bernhard 2016), CrossCheck, Bellingcat.
+
+**Fake news** (S7, S8-S9) — Terme englobant : nouvelles fausses présentées comme légitimes. Englobe désinformation et mésinformation.
+
+**Fédéralisme** (S1) — Une des 3 institutions fondamentales suisses. Ancrage cantonal des médias.
+
+**Focus group** (S5) — Méthode qualitative : env. 10 personnes diverses + 1 facilitateur·ice. Utilisée en analyse de campagne pour comprendre les motifs.
+
+**Formule magique** (S1) — Composition partisane du Conseil fédéral. Historiquement 2 PRD + 2 PDC + 2 PS + 1 UDC ; a évolué.
+
+**Fragmentation des publics** (S8-S9) — Passage d'un public de masse à des niches d'audience. Affaiblit l'agenda commun.
+
+## G
+
+**GAL-TAN** (S5) — Axe idéologique : Green-Alternative-Libertarian vs Traditional-Authoritarian-Nationalist. 2ᵉ axe (sociétal) complétant l'axe économique gauche-droite.
+
+**Gatekeeping** (S2, S7) — Contrôle de l'accès des nouvelles : qui décide ce qui passe ? Affaibli par le journalisme amateur.
+
+**Genuine event** (S7) — Événement véritable, non orchestré (cf. Kepplinger 1998). À opposer aux *staged events*.
+
+**Groupes d'intérêt** (S1) — Composante du public dans le triangle ; influencent la politique sans être des partis.
+
+## H
+
+**Hard news** (S1) — Information politique, économique, débat. Caractéristique du service public (Reinemann et al., 2012).
+
+**Horse-race journalism** (S6, S7) — Couverture des campagnes comme une **course de chevaux** : focus sur stratégies et sondages, peu sur les enjeux.
+
+**Hypodermique (modèle)** (S6) — Vision d'un public passif absorbant tous les messages. Modèle dépassé.
+
+## I
+
+**Identification partisane** (S6) — Attachement durable à un parti (Jennings & Niemi, 1981). Médiatise les effets des campagnes (modèle de résonance).
+
+**Imitation médiatique** (S2) — Mécanisme du marché : les médias copient ce qui marche chez les concurrents.
+
+**Indépendant·e (politique)** (S6) — Électeur·ice sans affiliation partisane. Selon Zaller (1992), les plus sensibles aux messages politiques (pas de « protection idéologique »).
+
+**Infotainment** (S1) — Mélange d'information et de divertissement. Caractéristique des médias commerciaux.
+
+**Intensité perçue (de campagne)** (S6) — Perception subjective de l'intensité d'une campagne par le public, conditionnée par la couverture médiatique (Bühlmann et al.).
+
+## J
+
+**Journalisme amateur (citoyen, alternatif)** (S7) — Atton (2008) : producteur·ice·s sans formation pro. Caractéristiques : immédiateté, focus sur l'image. Conséquence : absence de gatekeeping.
+
+**Journalisme neutre-informationnel** (S7) — Modèle où les médias sont **une institution** avec normes éthiques et professionnelles communes. Convergence des contenus.
+
+**Journalisme partisan** (S7) — Modèle où les médias sont des **acteurs** avec ligne éditoriale ; orientation explicite (éditorial) + implicite (rédaction).
+
+**Journalisme watchdog (chien de garde)** (S7) — Fonction secondaire de contrôle démocratique des élites par investigation.
+
+## L
+
+**Leader d'opinion** (S3) — Personne médiatrice du **two-step flow** (Lazarsfeld) entre les médias et le grand public.
+
+**Logique médiatique** (S4) — Altheide & Snow (1979) : forme de communication des médias (simplification, personnalisation, négativité, scandalisation). S'oppose à la logique politique.
+
+**Logique politique** (S4) — Manière propre à la politique d'organiser l'information : complexité, neutralité, institutions, factualité.
+
+## M
+
+**Mal-information** (S7) — Information **vraie** mais sortie de son contexte pour nuire (Eisenegger).
+
+**Marketing politique** (S5) — Gerstlé & Piar (2016) : application des techniques de marketing par les organisations politiques pour susciter le soutien de groupes ciblés.
+
+**Médialitératie (media literacy)** (S8-S9) — Capacité à accéder, analyser, évaluer et créer des contenus médiatiques.
+
+**Médiamalaise** (S4) — Newton (1999) : cynisme, démobilisation, perte de capital social due à la médiatisation.
+
+**Médiation** (S4) — Constat : les médias = canal central entre acteurs politiques et public (Bennett & Entman, 2001).
+
+**Médiatisation** (S4) — Processus dynamique : la politique adapte sa logique à celle des médias. 4 phases (Strömbäck, 2008).
+
+**Mésinformation** (S7) — Information fausse diffusée **involontairement** (Eisenegger).
+
+**Micro-targeting** (S5) — Issenberg (2012) : segmentation très fine des messages politiques par profil.
+
+**Mise sur agenda intermédiatique** — Cf. agenda-setting intermédiatique.
+
+**Mobilisation** (S6) — Effet des campagnes : augmenter la participation. Général positif sauf campagnes négatives (Ansolabehere & Iyengar, 1995).
+
+## N
+
+**Négativité** (S4, S5) — Caractéristique de la logique médiatique : langage émotionnel, exagération. Aussi caractéristique des campagnes négatives.
+
+**Neutralité** (S1) — Une des 3 institutions fondamentales suisses.
+
+**News values (valeurs médiatiques)** (S2) — Galtung & Ruge (1965) : critères de sélection des journalistes (violence, proximité, nouveauté, acteurs, population, complexité).
+
+**Niche (parti de)** (S5) — Meguid (2008) : parti exploitant un enjeu spécifique et flou sur le reste.
+
+## O
+
+**Office-seeking** (S4) — Stratégie partisane : maximiser les postes gouvernementaux.
+
+**Opinion publique** (S1) — Ensemble des opinions du public ; centrale en démocratie représentative ; se manifeste par sondages et RS.
+
+**Opposition research** (S5) — Recherches sur la concurrence dans l'analyse de la situation (Mauser, 1983).
+
+## P
+
+**Panel (sondage)** (S5) — Sondage où les mêmes personnes sont recontactées plusieurs fois, permettant le suivi individuel.
+
+**Persuasion** (S6) — Perloff (2021) : processus symbolique de changement d'attitudes/comportements par un message. Effets directs limités sur le choix de vote.
+
+**Personnalisation** (S4) — Focalisation sur les individus plutôt que sur les institutions. Caractéristique de la logique médiatique.
+
+**Policy-seeking** (S4) — Stratégie partisane : maximiser l'influence sur les politiques publiques.
+
+**Polarisation affective** (S8-S9) — Hostilité émotionnelle entre camps indépendamment des positions.
+
+**Polarisation idéologique** (S8-S9) — Écart croissant entre positions politiques.
+
+**Polity / politics / policies** (S1) — Sciarini (2023) : (1) institutions et régime ; (2) processus et rapports de pouvoir ; (3) politiques publiques.
+
+**Politique médiatisée** (S4) — Bennett & Entman (2001) : caractéristique des démocraties contemporaines.
+
+**Pondération** (S5) — Technique statistique pour corriger les biais d'échantillonnage (sondages).
+
+**Pré-campagne** (S6) — Campagne de votation utilisée comme pré-campagne électorale en CH.
+
+**Préférence partisane** (S6) — Attachement à un parti ; cible des effets de campagne.
+
+**Presse de boulevard** (S4) — Style caractéristique de la logique médiatique : ironie, langage informel.
+
+**Prior attention (attention préalable)** (S2) — Critère de l'approche de marché : on couvre ce qui a déjà reçu de l'attention.
+
+**Professionnalisation (des campagnes)** (S5, S6) — Recours croissant à des professionnel·le·s spécialisé·e·s.
+
+**Propriété d'enjeux (issue ownership)** (S5) — Petrocik (1996) : chaque parti a des enjeux sur lesquels il est plus crédible.
+
+**Public** (S1) — Citoyen·ne·s, société civile, groupes d'intérêt. Un des 3 sommets du triangle.
+
+**Publicité politique** (S5) — Gerstlé & Piar (2016) : communication contrôlée par un acteur politique caractérisée par diffusion **payante**. En CH, **interdite à la TV**.
+
+## R
+
+**Receive-Accept-Sample** (S6) — Modèle de Zaller (1992) : 3 étapes de réception/acceptation/échantillonnage des messages. Effets en U inversé selon la sophistication.
+
+**Récepteur·trice** (S6) — Cible d'un message persuasif. Actif·ve selon les recherches modernes.
+
+**Renforcement** (S6) — Effet de campagne : consolider une préférence existante. L'effet le plus fréquent.
+
+**Réseaux sociaux** (S4, S5, S8-S9) — Plateformes numériques permettant communication directe et démédiation. Risques : algorithmes, fake news.
+
+**Résonance (modèle de)** (S6) — Effets dépendent des caractéristiques individuelles (identification partisane, sophistication). But : focaliser sur enjeux avantageux.
+
+**Rétroaction** (S2) — Mécanisme circulaire : agenda médiatique ↑ préoccupation publique ↑ agenda médiatique ↑.
+
+## S
+
+**Sacralisation politique** (S4) — Courbet (2026) : processus d'élévation d'un·e acteur·trice politique au rang de valeur sacrée.
+
+**Segmentation électorale** (S5) — Découpage de l'électorat en segments : acquis, potentiel, flottant, opposition.
+
+**Service public** (S1) — SRG SSR en CH. Mandat constitutionnel (art. 93), financement 80 % par redevances. Hard news, neutralité.
+
+**Soft news** (S1) — Information « légère », divertissement. Caractéristique des médias commerciaux.
+
+**Sondage instantané** (S5) — « Photo » à un moment T, suivi agrégé (ex. Tamedia).
+
+**Sophistication politique** (S6) — Niveau de connaissance et d'engagement politique. Médiatise les effets des campagnes (Zaller).
+
+**Staged event** (S7) — Événement orchestré par les acteurs politiques (Kepplinger 1998). Cf. conférences de presse.
+
+**Stratégique (modèle)** (S6) — Effets de campagne dans un environnement concurrentiel. But : capter l'attention, neutraliser les adversaires.
+
+**SRG SSR** (S1) — Service public audiovisuel suisse, association à but non lucratif divisée en sociétés régionales.
+
+**Surveillance des programmes** (S1) — Pour SRG SSR : organes de médiation + Autorité indépendante de l'examen des plaintes (membres nommés par Conseil fédéral).
+
+**Synchronisation éditoriale** (S7) — Mécanisme du journalisme partisan : thèmes, arguments, positions de la partie rédactionnelle alignés sur l'éditorial.
+
+## T
+
+**Tempête médiatique (media storm)** (S2) — Boydstun et al. (2014) : attention médiatique soudaine, élevée et soutenue. 3 critères : ≥150 %, ≥100 articles, ≥1 semaine, dans plusieurs publications.
+
+**Théorie usage et gratification (U&G)** (S8-S9) — Katz, Blumler & Gurevitch (1973) : le public choisit activement les médias pour satisfaire ses besoins (info, identité, intégration, divertissement).
+
+**Triangle de la communication politique** (S1) — Acteurs politiques · acteurs médiatiques · public. Le schéma central du cours.
+
+**Two-step flow** (S3) — Lazarsfeld et al. (1944) : les médias influencent d'abord les **leaders d'opinion**, qui influencent ensuite le grand public.
+
+## U
+
+**UDC (SVP)** (S1) — Union démocratique du Centre. Parti gouvernemental, droite conservatrice. Propriétaire de l'enjeu migratoire.
+
+**Usage et gratification** — Cf. théorie usage et gratification.
+
+## V
+
+**Valeur médiatique** — Cf. news values.
+
+**Vote-seeking** (S4) — Stratégie partisane : maximiser le nombre de voix.
+
+## Z
+
+**Zurich Yearbook (on the Quality of the Media)** (S7, S8-S9) — Étude annuelle dirigée par Eisenegger sur la qualité de l'information en Suisse. Document la déprivation informationnelle.
