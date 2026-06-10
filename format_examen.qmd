@@ -2,31 +2,38 @@
 title: "Format examen Feddersen"
 ---
 
-::: {.callout-tip}
-## À propos
-Analyse détaillée du format examen pour ce cours, avec stratégie de copie, sujets probables par séance et lectures obligatoires. La prof Feddersen enseigne aussi **Méthodes II** : son format est très **prévisible**.
+::: {.callout-important}
+## Ce que dit RÉELLEMENT le syllabus (vérifié)
+Le syllabus officiel (Prof. Feddersen, SP 2026) indique **uniquement** :
+
+> « L'**examen écrit** de **60 minutes** a lieu lors de la session d'été 2026. La note est déterminée par l'examen écrit. »
+
+➡️ Il **ne précise PAS** la structure exacte (ni « QCM », ni le nombre de questions, ni le barème). Tout ce qui suit est une **reconstruction plausible**, pas une certitude.
 :::
 
-## Le format officiel
-
-### Modalités
+## Le format officiel (confirmé)
 
 | Élément | Détail |
 |---|---|
-| **Format** | Examen écrit |
+| **Format** | **Examen écrit** (≠ « QCM » confirmé) |
 | **Durée** | **60 minutes** |
 | **Période** | Session d'été 2026 |
 | **Note** | **100 %** de la note finale |
-| **Matière** | Cours + **lectures obligatoires** |
-| **Matériel autorisé** | Aucun, sauf dictionnaire bilingue **non-annoté** pour étudiant·e·s non-francophones |
+| **Matière** | Cours + **lectures obligatoires** (elles font partie de la matière) |
+| **Matériel autorisé** | Aucun, sauf dictionnaire bilingue **non-annoté** (non-francophones) |
 
-### Structure (10 points)
+## Structure probable (NON confirmée — hypothèse)
 
-| Partie | Points | Format | Objectif |
-|---|---|---|---|
-| **1. Questions courtes** | 5 pts (5 × 1) | **2-3 phrases** par réponse | Tester la **compréhension** |
-| **2. Questions de réflexion** | 5 pts (2 × 2.5) | **2-3 paragraphes** par réponse | Tester la **capacité d'analyse critique** |
-| **Total** | **10 pts** |  |  |
+::: {.callout-warning}
+« Examen écrit » en sciences sociales = le plus souvent des **questions à développer** (définir, comparer, analyser un cas). Un **format mixte** reste plausible car la même prof utilise, en *Méthodes II*, « QCM + questions courtes + une question longue » — mais **rien ne le garantit ici**. Ne mise pas tout sur le QCM.
+:::
+
+| Partie probable | Format | Objectif |
+|---|---|---|
+| **Questions de connaissance** | quelques phrases (définir, identifier, V/F, éventuellement QCM) | Compréhension des concepts |
+| **Questions à développer** | 1-3 paragraphes structurés et **sourcés** | Analyse critique — **c'est là que se gagne la note** |
+
+➡️ **Stratégie :** s'entraîner surtout aux **questions à développer** (voir les 2 « Examens rédigés »), tout en sachant **définir/reconnaître** chaque concept pour d'éventuelles questions courtes.
 
 ## Particularité Feddersen : format proche de Méthodes II
 

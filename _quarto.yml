@@ -4,6 +4,8 @@ project:
   resources:
     - "examen_blanc_1.html"
     - "examen_blanc_2.html"
+    - "examen_redige_1.html"
+    - "examen_redige_2.html"
 
 website:
   title: "Communication politique — Cours (théorie)"
@@ -40,10 +42,14 @@ website:
         text: "Format examen"
       - text: "Examens blancs"
         menu:
+          - href: examen_redige_1.html
+            text: "★ Rédigé 1 · questions à développer + corrigé (format réel)"
+          - href: examen_redige_2.html
+            text: "★ Rédigé 2 · analyse/synthèse + corrigé (format réel)"
           - href: examen_blanc_1.html
-            text: "Examen 1 · Réaliste (mix questions courtes + réflexion)"
+            text: "Entraînement QCM 1 (reconnaissance des concepts)"
           - href: examen_blanc_2.html
-            text: "Examen 2 · Difficile (pièges + lectures + cas)"
+            text: "Entraînement QCM 2 (pièges + lectures)"
   sidebar:
     style: docked
     search: true
