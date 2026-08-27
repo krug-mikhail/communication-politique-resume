@@ -242,28 +242,51 @@ function copyAll(){
 </script>
 
 <script id="shuffle-quiz">
-// Ordre aléatoire des questions à chaque chargement — les groupes restent ensemble :
-// seules les suites contiguës de questions sont mélangées, tout élément intercalé
-// (titre de section, bloc de données) sert de barrière.
+// v2 — mélange les questions (groupes préservés) ET les options de chaque question.
 (function(){
   function shuffle(a){for(var i=a.length-1;i>0;i--){var j=Math.floor(Math.random()*(i+1));var t=a[i];a[i]=a[j];a[j]=t;}return a;}
+  // A. questions : suites contiguës uniquement (sections & blocs de données = barrières)
   var all = Array.prototype.slice.call(document.querySelectorAll('.question'));
-  if(all.length < 2) return;
-  // 1. découper en suites contiguës
-  var runs=[], cur=[];
-  all.forEach(function(q){
-    if(cur.length && cur[cur.length-1].nextElementSibling !== q){ runs.push(cur); cur=[]; }
-    cur.push(q);
+  if(all.length > 1){
+    var runs=[], cur=[];
+    all.forEach(function(q){
+      if(cur.length && cur[cur.length-1].nextElementSibling !== q){ runs.push(cur); cur=[]; }
+      cur.push(q);
+    });
+    runs.push(cur);
+    runs.forEach(function(run){
+      if(run.length < 2) return;
+      var slots = run.map(function(q){ var m=document.createComment('s'); q.parentNode.insertBefore(m,q); return m; });
+      shuffle(run.slice()).forEach(function(q,i){ slots[i].parentNode.insertBefore(q, slots[i]); });
+      slots.forEach(function(m){ m.parentNode.removeChild(m); });
+    });
+  }
+  // B. options de chaque question (sauf Vrai/Faux et listes numériques)
+  var letters = 'abcdefgh';
+  document.querySelectorAll('.question ul.options').forEach(function(ul){
+    var lis = Array.prototype.slice.call(ul.children).filter(function(n){ return n.tagName === 'LI'; });
+    if(lis.length < 3) return;
+    var raw = lis.map(function(li){ return li.textContent.replace(/^\s*[a-d][.)]\s*/,'').trim(); });
+    if(raw.some(function(t){ return /^(vrai|faux|incertain|oui|non)\b/i.test(t); })) return;
+    var numish = raw.filter(function(t){ return /^[-−+±≈\s0-9'.,%$€]+(CHF|francs?)?\s*\.?$/i.test(t); }).length;
+    if(numish >= lis.length - 1) return;
+    shuffle(lis.slice()).forEach(function(li){ ul.appendChild(li); });
+    var now = Array.prototype.slice.call(ul.children).filter(function(n){ return n.tagName === 'LI'; });
+    now.forEach(function(li, k){
+      var s = li.querySelector('.opt-l,.opt-letter');
+      if(s) s.textContent = letters[k] + '.';
+      var r = li.querySelector('input[type=radio],input[type=checkbox]');
+      if(r && /^[a-h]$/.test(r.value)) r.value = letters[k];
+    });
+    var q = ul.closest('.question');
+    var good = ul.querySelector('li[data-c="1"], li[data-correct="true"]');
+    if(q && good){
+      var idx = now.indexOf(good);
+      var ex = q.querySelector('.expl > b:first-child');
+      if(ex && /^[a-d]\.?$/.test(ex.textContent.trim()) && idx >= 0) ex.textContent = letters[idx] + '.';
+    }
   });
-  runs.push(cur);
-  // 2. mélanger chaque suite sur place
-  runs.forEach(function(run){
-    if(run.length < 2) return;
-    var slots = run.map(function(q){ var m=document.createComment('s'); q.parentNode.insertBefore(m,q); return m; });
-    shuffle(run.slice()).forEach(function(q,i){ slots[i].parentNode.insertBefore(q, slots[i]); });
-    slots.forEach(function(m){ m.parentNode.removeChild(m); });
-  });
-  // 3. renuméroter dans l'ordre d'affichage
+  // C. renumérotation + resynchronisation des plages
   var fresh = Array.prototype.slice.call(document.querySelectorAll('.question'));
   fresh.forEach(function(q, idx){
     var n = idx + 1;
@@ -275,7 +298,6 @@ function copyAll(){
     }
   });
   if(typeof window.qs !== 'undefined' && window.qs && window.qs.length === fresh.length){ window.qs = fresh; }
-  // 4. resynchroniser les plages « Qx–Qy » des titres et blocs de données
   function collect(h){
     var isData = h.classList.contains('q-data');
     var out=[], node=h.nextElementSibling;
@@ -291,8 +313,7 @@ function copyAll(){
     }
     return out;
   }
-  var heads = Array.prototype.slice.call(document.querySelectorAll('.section,.section-titre,.q-data'));
-  heads.forEach(function(h){
+  Array.prototype.forEach.call(document.querySelectorAll('.section,.section-titre,.q-data'), function(h){
     if(!/Q\d+\s*[–—-]\s*Q?\d+|\(Q\d+\)/.test(h.textContent)) return;
     var qs2 = collect(h);
     if(!qs2.length) return;
